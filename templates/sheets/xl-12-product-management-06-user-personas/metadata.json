@@ -1,0 +1,35 @@
+{
+  "id": "xl-12-product-management-06-user-personas",
+  "name": "User Personas",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Product Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "12_Product_Management/06_User_Personas.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10412,
+  "sha256": "088277f960ba83316560bde793167ba71251b979bb308a8d4f3a221fa78df6cc",
+  "importedAt": "2026-10-04T15:48:17Z"
+}

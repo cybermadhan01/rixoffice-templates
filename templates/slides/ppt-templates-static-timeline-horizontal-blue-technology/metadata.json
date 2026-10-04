@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-timeline-horizontal-blue-technology",
+  "name": "Horizontal Blue Technology",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Timeline",
+  "tags": [
+    "slides",
+    "presentation",
+    "timeline"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/timeline/horizontal_blue_technology.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29467,
+  "sha256": "b0e2e899d259c411c4a971ac594f49a205891482bb2eb6ccf4d73f69d93c0d4b",
+  "importedAt": "2026-10-04T15:48:03Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "xl-05-education-learning-01-study-planner",
+  "name": "Study Planner",
+  "format": "xlsx",
+  "category": "Education",
+  "subcategory": "Education Learning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "05_Education_Learning/01_Study_Planner.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10389,
+  "sha256": "1f276e339cfd12401077b61a36910e9fb8109ef526d1b822925c584efd107b0e",
+  "importedAt": "2026-10-04T15:48:08Z"
+}

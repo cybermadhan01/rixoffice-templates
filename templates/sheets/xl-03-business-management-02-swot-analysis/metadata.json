@@ -1,0 +1,35 @@
+{
+  "id": "xl-03-business-management-02-swot-analysis",
+  "name": "SWOT Analysis",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Business Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "03_Business_Management/02_SWOT_Analysis.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10045,
+  "sha256": "cde042de15b1420bb7643d349502486b6af3bcd05117887a0b7916f290d8b4e3",
+  "importedAt": "2026-10-04T15:48:06Z"
+}

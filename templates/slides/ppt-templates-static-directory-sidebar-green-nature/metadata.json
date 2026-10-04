@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-directory-sidebar-green-nature",
+  "name": "Sidebar Green Nature",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/directory/sidebar_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29287,
+  "sha256": "2ecf53ba4321b69b28e4d2cab99f12cda7bf0181275ebcbdeb88e88b0839ed66",
+  "importedAt": "2026-10-04T15:48:01Z"
+}

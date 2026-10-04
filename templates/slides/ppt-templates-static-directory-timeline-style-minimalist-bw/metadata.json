@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-directory-timeline-style-minimalist-bw",
+  "name": "Timeline Style Minimalist Bw",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/directory/timeline_style_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29681,
+  "sha256": "c83b45ced8eb36183795dc80a89bee006990a4a307ba2ae09126b5fb48c3b03c",
+  "importedAt": "2026-10-04T15:48:01Z"
+}

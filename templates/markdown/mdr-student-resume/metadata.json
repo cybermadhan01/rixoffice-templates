@@ -1,0 +1,36 @@
+{
+  "id": "mdr-student-resume",
+  "name": "Student Resume",
+  "format": "md",
+  "category": "Personal",
+  "subcategory": "Careers",
+  "tags": [
+    "resume",
+    "cv",
+    "markdown",
+    "ats"
+  ],
+  "description": "1 sections, 760 words",
+  "source": {
+    "repository": "markdownresume/markdown-resume-templates",
+    "repository_url": "https://github.com/markdownresume/markdown-resume-templates",
+    "original_path": "templates/student-resume.md",
+    "author": "markdownresume",
+    "license": "MIT",
+    "license_url": "https://github.com/markdownresume/markdown-resume-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 5724,
+  "sha256": "150f5c88496587e32070fc42493e0eca43de417158a4210a2a6df69687446e6e",
+  "importedAt": "2026-10-04T15:48:43Z"
+}

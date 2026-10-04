@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-content-four-grid-minimalist-bw",
+  "name": "Four Grid Minimalist Bw",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Content",
+  "tags": [
+    "slides",
+    "presentation",
+    "content"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/content/four_grid_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29601,
+  "sha256": "c20b795eee730675c4fa82628b59e70bc31f821509f5adf76a7d4b031d209c78",
+  "importedAt": "2026-10-04T15:47:58Z"
+}

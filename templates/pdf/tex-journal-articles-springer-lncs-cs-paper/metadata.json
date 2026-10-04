@@ -1,0 +1,35 @@
+{
+  "id": "tex-journal-articles-springer-lncs-cs-paper",
+  "name": "Springer Lncs Cs Paper",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "journal-articles/springer-lncs-cs-paper/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 120777,
+  "sha256": "6b6f9db78b210342296008bf9b9a49721b9662098f0e4a90a10e54da2f91fd90",
+  "importedAt": "2026-10-04T15:48:29Z"
+}

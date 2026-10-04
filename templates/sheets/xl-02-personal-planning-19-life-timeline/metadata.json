@@ -1,0 +1,35 @@
+{
+  "id": "xl-02-personal-planning-19-life-timeline",
+  "name": "Life Timeline",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Personal Planning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "02_Personal_Planning/19_Life_Timeline.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9960,
+  "sha256": "17e7be3b701ae8e6b32eaab01409464f4818e41112d6af3c47e0b91e9d2a452f",
+  "importedAt": "2026-10-04T15:48:05Z"
+}

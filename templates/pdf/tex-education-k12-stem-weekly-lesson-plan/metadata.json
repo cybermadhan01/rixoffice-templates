@@ -1,0 +1,35 @@
+{
+  "id": "tex-education-k12-stem-weekly-lesson-plan",
+  "name": "K12 Stem Weekly Lesson Plan",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "education/k12-stem-weekly-lesson-plan/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 138726,
+  "sha256": "cace65b567eda2ff8a4bacca567e59792b25d5e633a27145c5584ce2820d9690",
+  "importedAt": "2026-10-04T15:48:22Z"
+}

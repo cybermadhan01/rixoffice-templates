@@ -1,0 +1,23 @@
+Rixoffice template: Sidebar Dark Gold
+==================================================
+
+Template id : ppt-templates-static-directory-sidebar-dark-gold
+Format      : PPTX
+Source      : wuhua2026/ppt-templates
+Upstream    : https://github.com/wuhua2026/ppt-templates
+Original    : templates/static/directory/sidebar_dark_gold.pptx
+Author      : wuhua2026
+Licence     : MIT
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Retain this notice in any redistribution: "<template name>" by {author}, from {repo}, MIT licensed.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

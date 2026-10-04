@@ -1,0 +1,35 @@
+{
+  "id": "tex-presentations-powerdot-minimal-monochrome",
+  "name": "Powerdot Minimal Monochrome",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "presentations/powerdot-minimal-monochrome/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 38534,
+  "sha256": "920ebbb8b8c336053340b880c762282c139daa8932c21c5ac864d4ff401c0895",
+  "importedAt": "2026-10-04T15:48:38Z"
+}

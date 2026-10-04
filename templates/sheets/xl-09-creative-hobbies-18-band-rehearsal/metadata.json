@@ -1,0 +1,35 @@
+{
+  "id": "xl-09-creative-hobbies-18-band-rehearsal",
+  "name": "Band Rehearsal",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Creative Hobbies",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "09_Creative_Hobbies/18_Band_Rehearsal.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10337,
+  "sha256": "4ed25fe1f54230cb591a72cfb6eba5122b96a6a4177a57f0c6be7871189afa56",
+  "importedAt": "2026-10-04T15:48:14Z"
+}

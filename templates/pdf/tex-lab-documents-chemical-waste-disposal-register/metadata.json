@@ -1,0 +1,35 @@
+{
+  "id": "tex-lab-documents-chemical-waste-disposal-register",
+  "name": "Chemical Waste Disposal Register",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "lab-documents/chemical-waste-disposal-register/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 177598,
+  "sha256": "0a5ad76c8b0fa9e3842e98d933fadba46e9815bb669a683e7a737cf154c5b9a4",
+  "importedAt": "2026-10-04T15:48:29Z"
+}

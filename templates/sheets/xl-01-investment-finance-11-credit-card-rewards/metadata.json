@@ -1,0 +1,35 @@
+{
+  "id": "xl-01-investment-finance-11-credit-card-rewards",
+  "name": "Credit Card Rewards",
+  "format": "xlsx",
+  "category": "Finance",
+  "subcategory": "Investment Finance",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "01_Investment_Finance/11_Credit_Card_Rewards.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9931,
+  "sha256": "fc2bc7d0ad97f3053eeb35afeb8aaf7d2a7643dd056436f0c8757ce7829bb997",
+  "importedAt": "2026-10-04T15:48:04Z"
+}

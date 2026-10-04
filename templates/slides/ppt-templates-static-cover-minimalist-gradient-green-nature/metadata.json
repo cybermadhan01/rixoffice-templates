@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-minimalist-gradient-green-nature",
+  "name": "Minimalist Gradient Green Nature",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/minimalist_gradient_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28732,
+  "sha256": "f5a81028d5fa84bfb59119e371ad3487ada21f1ded9183247330e718892fca52",
+  "importedAt": "2026-10-04T15:48:00Z"
+}

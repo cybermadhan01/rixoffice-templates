@@ -1,0 +1,36 @@
+{
+  "id": "pd-room-rental-agreement",
+  "name": "Room Rental Agreement",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Property",
+  "tags": [
+    "property",
+    "lease",
+    "rental",
+    "agreement"
+  ],
+  "description": "14 paragraphs",
+  "source": {
+    "repository": "PandaDoc/property-agreement-templates",
+    "repository_url": "https://github.com/PandaDoc/property-agreement-templates",
+    "original_path": "templates/room-rental-agreement.md",
+    "author": "PandaDoc",
+    "license": "MIT",
+    "license_url": "https://github.com/PandaDoc/property-agreement-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37209,
+  "sha256": "60d897c0d8174225f06078fe1a3b7830484faf3f5ed3613bc2a3df31671a7e2c",
+  "importedAt": "2026-10-04T15:47:53Z"
+}

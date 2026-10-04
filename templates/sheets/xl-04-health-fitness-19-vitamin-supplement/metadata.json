@@ -1,0 +1,35 @@
+{
+  "id": "xl-04-health-fitness-19-vitamin-supplement",
+  "name": "Vitamin Supplement",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Health Fitness",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "04_Health_Fitness/19_Vitamin_Supplement.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10067,
+  "sha256": "9bb1a1da8f7c75d26e514aac2ba64a55c8920800a92d306a658a17fe3d11f969",
+  "importedAt": "2026-10-04T15:48:08Z"
+}

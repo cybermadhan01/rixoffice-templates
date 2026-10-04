@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-content-full-image-overlay-dark-gold",
+  "name": "Full Image Overlay Dark Gold",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Content",
+  "tags": [
+    "slides",
+    "presentation",
+    "content"
+  ],
+  "description": "2 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/content/full_image_overlay_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30731,
+  "sha256": "57ecb415be5d8c933fb1284f05056a165561643e5bb4423ff5c725ef491e4300",
+  "importedAt": "2026-10-04T15:47:58Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "xl-06-life-lifestyle-07-wardrobe-inventory",
+  "name": "Wardrobe Inventory",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Life Lifestyle",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "06_Life_Lifestyle/07_Wardrobe_Inventory.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10101,
+  "sha256": "427db284e8547a449f61a728275ac9ce7769c205f71864c33bb6f0364c0ba2d7",
+  "importedAt": "2026-10-04T15:48:10Z"
+}

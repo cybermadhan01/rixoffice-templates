@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-team-team-grid-green-nature",
+  "name": "Team Grid Green Nature",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Team",
+  "tags": [
+    "slides",
+    "presentation",
+    "team"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/team/team_grid_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30320,
+  "sha256": "54744f7587e1c877a3bcabc74dcabbabc2e227f021695b3b84c84d9bb9cd3ba3",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "xl-08-travel-adventure-08-destination-research",
+  "name": "Destination Research",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Travel Adventure",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "08_Travel_Adventure/08_Destination_Research.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9743,
+  "sha256": "a01f8075823898b8ba4ebf7a9858f79e26f39338a6181463f23c1eda49b52eb0",
+  "importedAt": "2026-10-04T15:48:12Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tex-grants-nsf-project-description-template",
+  "name": "Nsf Project Description Template",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "grants/nsf-project-description-template/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 175118,
+  "sha256": "a87140cb8533692f1b9ce612fab98c6f29f0dd567ea1c0072f387d5e586d4d0a",
+  "importedAt": "2026-10-04T15:48:27Z"
+}

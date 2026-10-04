@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-ending-thank-you-red-business",
+  "name": "Thank You Red Business",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Closing",
+  "tags": [
+    "slides",
+    "presentation",
+    "ending"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/ending/thank_you_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29487,
+  "sha256": "4ce074a7876199d5c0cc6d834a2aba4d0ac8733b2addf0e3405f018f2150df82",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

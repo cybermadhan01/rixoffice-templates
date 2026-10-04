@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-split-screen-ocean-blue",
+  "name": "Split Screen Ocean Blue",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/split_screen_ocean_blue.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28790,
+  "sha256": "b9aba8b5f25abc9ea80c9713f073660a1639f47c0ed73320a7e6c6fe4360b698",
+  "importedAt": "2026-10-04T15:48:00Z"
+}

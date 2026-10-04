@@ -1,0 +1,35 @@
+{
+  "id": "xl-12-product-management-07-customer-journey",
+  "name": "Customer Journey",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Product Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "12_Product_Management/07_Customer_Journey.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10395,
+  "sha256": "84f6921726b7c7f06a09919d3ae87159607b38c8aac97a063990dbf9d2e52b63",
+  "importedAt": "2026-10-04T15:48:17Z"
+}

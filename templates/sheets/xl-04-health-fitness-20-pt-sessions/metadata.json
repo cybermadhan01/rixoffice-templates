@@ -1,0 +1,35 @@
+{
+  "id": "xl-04-health-fitness-20-pt-sessions",
+  "name": "PT Sessions",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Health Fitness",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "04_Health_Fitness/20_PT_Sessions.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10067,
+  "sha256": "03b30334fa6e5f96c1d6dcd886e9095e0a44582284eeb6979c646a9d3b9aea9e",
+  "importedAt": "2026-10-04T15:48:08Z"
+}

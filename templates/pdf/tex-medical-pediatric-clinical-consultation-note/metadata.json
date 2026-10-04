@@ -1,0 +1,35 @@
+{
+  "id": "tex-medical-pediatric-clinical-consultation-note",
+  "name": "Pediatric Clinical Consultation Note",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "medical/pediatric-clinical-consultation-note/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 97364,
+  "sha256": "83185f8ce77d097c92077896ffb63f7756f2c4dbf242ff400710a3201a94d551",
+  "importedAt": "2026-10-04T15:48:32Z"
+}

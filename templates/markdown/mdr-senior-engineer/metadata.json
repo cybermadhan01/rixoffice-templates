@@ -1,0 +1,36 @@
+{
+  "id": "mdr-senior-engineer",
+  "name": "Senior Engineer",
+  "format": "md",
+  "category": "Personal",
+  "subcategory": "Careers",
+  "tags": [
+    "resume",
+    "cv",
+    "markdown",
+    "ats"
+  ],
+  "description": "1 sections, 728 words",
+  "source": {
+    "repository": "markdownresume/markdown-resume-templates",
+    "repository_url": "https://github.com/markdownresume/markdown-resume-templates",
+    "original_path": "templates/senior-engineer.md",
+    "author": "markdownresume",
+    "license": "MIT",
+    "license_url": "https://github.com/markdownresume/markdown-resume-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 5944,
+  "sha256": "b48f84a5ce9b780f86ca80f29b5f4f05b6149289f2a6562e939814058d94d10a",
+  "importedAt": "2026-10-04T15:48:43Z"
+}

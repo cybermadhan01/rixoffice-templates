@@ -1,0 +1,35 @@
+{
+  "id": "xl-03-business-management-06-content-calendar",
+  "name": "Content Calendar",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Business Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "03_Business_Management/06_Content_Calendar.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10099,
+  "sha256": "5d1ca8426c83a81f7ce32d1dd6b4f90a26063d42da7187f6622ba61584d9b606",
+  "importedAt": "2026-10-04T15:48:06Z"
+}

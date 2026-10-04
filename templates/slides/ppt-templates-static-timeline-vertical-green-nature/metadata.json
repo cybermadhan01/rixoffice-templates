@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-timeline-vertical-green-nature",
+  "name": "Vertical Green Nature",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Timeline",
+  "tags": [
+    "slides",
+    "presentation",
+    "timeline"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/timeline/vertical_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29448,
+  "sha256": "1199f002bacbf0e796dde73ef7fff7f0b64850d4a71803e0cde4ae9b61d40632",
+  "importedAt": "2026-10-04T15:48:03Z"
+}

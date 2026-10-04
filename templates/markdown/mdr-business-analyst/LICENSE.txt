@@ -1,0 +1,23 @@
+Rixoffice template: Business Analyst
+==================================================
+
+Template id : mdr-business-analyst
+Format      : MD
+Source      : markdownresume/markdown-resume-templates
+Upstream    : https://github.com/markdownresume/markdown-resume-templates
+Original    : templates/business-analyst.md
+Author      : markdownresume
+Licence     : MIT
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Retain this notice in any redistribution: "<template name>" by {author}, from {repo}, MIT licensed.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

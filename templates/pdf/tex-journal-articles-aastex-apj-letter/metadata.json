@@ -1,0 +1,35 @@
+{
+  "id": "tex-journal-articles-aastex-apj-letter",
+  "name": "Aastex Apj Letter",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "journal-articles/aastex-apj-letter/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 188852,
+  "sha256": "d35f0ca48bbb2e1826f1b2025eade86b5bbccd9adfd307a4f07943f9f028c158",
+  "importedAt": "2026-10-04T15:48:27Z"
+}

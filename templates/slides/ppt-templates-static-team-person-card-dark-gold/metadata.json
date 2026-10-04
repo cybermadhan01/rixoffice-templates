@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-team-person-card-dark-gold",
+  "name": "Person Card Dark Gold",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Team",
+  "tags": [
+    "slides",
+    "presentation",
+    "team"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/team/person_card_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29647,
+  "sha256": "0efdd18463e59a016db6b6068fab4523fc3b71ef554f0efb760cacb67ae7ea1a",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

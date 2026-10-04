@@ -1,0 +1,35 @@
+{
+  "id": "tex-lab-documents-cleanroom-calibration-sheet",
+  "name": "Cleanroom Calibration Sheet",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "lab-documents/cleanroom-calibration-sheet/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 197484,
+  "sha256": "1fb7f04fca981cb7e34df9083b7129b6dc3a6f46cfb9da33b2d48e9094d0bcd5",
+  "importedAt": "2026-10-04T15:48:29Z"
+}

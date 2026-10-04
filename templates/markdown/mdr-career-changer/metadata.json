@@ -1,0 +1,36 @@
+{
+  "id": "mdr-career-changer",
+  "name": "Career Changer",
+  "format": "md",
+  "category": "Personal",
+  "subcategory": "Careers",
+  "tags": [
+    "resume",
+    "cv",
+    "markdown",
+    "ats"
+  ],
+  "description": "1 sections, 1059 words",
+  "source": {
+    "repository": "markdownresume/markdown-resume-templates",
+    "repository_url": "https://github.com/markdownresume/markdown-resume-templates",
+    "original_path": "templates/career-changer.md",
+    "author": "markdownresume",
+    "license": "MIT",
+    "license_url": "https://github.com/markdownresume/markdown-resume-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 8754,
+  "sha256": "180617a048d5252a269fd81d6a94d69ef26e39aebd9f4af56204403aef5dcfad",
+  "importedAt": "2026-10-04T15:48:42Z"
+}

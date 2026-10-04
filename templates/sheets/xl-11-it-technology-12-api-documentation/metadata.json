@@ -1,0 +1,35 @@
+{
+  "id": "xl-11-it-technology-12-api-documentation",
+  "name": "API Documentation",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "It Technology",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "11_IT_Technology/12_API_Documentation.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10365,
+  "sha256": "c72649b6d3a42af724a6a55809f990292f4128e2dead8e6918a7cf48ec1f424a",
+  "importedAt": "2026-10-04T15:48:16Z"
+}

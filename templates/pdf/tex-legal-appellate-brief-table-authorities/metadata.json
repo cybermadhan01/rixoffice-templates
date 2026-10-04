@@ -1,0 +1,35 @@
+{
+  "id": "tex-legal-appellate-brief-table-authorities",
+  "name": "Appellate Brief Table Authorities",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "legal/appellate-brief-table-authorities/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 75244,
+  "sha256": "0cae0e49ef7ce342cfcb0b279d1071359d370b18db00d2d7299dc767a06a02bb",
+  "importedAt": "2026-10-04T15:48:30Z"
+}

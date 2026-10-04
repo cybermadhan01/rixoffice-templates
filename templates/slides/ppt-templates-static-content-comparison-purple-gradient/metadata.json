@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-content-comparison-purple-gradient",
+  "name": "Comparison Purple Gradient",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Content",
+  "tags": [
+    "slides",
+    "presentation",
+    "content"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/content/comparison_purple_gradient.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29408,
+  "sha256": "f326b991807be06c733808b80de2178f622ed7454988497f0ded1d97ac2ecad1",
+  "importedAt": "2026-10-04T15:47:58Z"
+}

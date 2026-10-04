@@ -1,0 +1,35 @@
+{
+  "id": "xl-12-product-management-09-competitive-features",
+  "name": "Competitive Features",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Product Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "12_Product_Management/09_Competitive_Features.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10381,
+  "sha256": "d32c3419be4ea2f8b80e71d015cc4b91688673fd1a394ecd31ae35b2ceeab2cd",
+  "importedAt": "2026-10-04T15:48:17Z"
+}

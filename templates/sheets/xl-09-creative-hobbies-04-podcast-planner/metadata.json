@@ -1,0 +1,35 @@
+{
+  "id": "xl-09-creative-hobbies-04-podcast-planner",
+  "name": "Podcast Planner",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Creative Hobbies",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "09_Creative_Hobbies/04_Podcast_Planner.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10373,
+  "sha256": "11cc0994a70cb5756c83d8bbcf613bae81afb1805b7b3026af6941f44876061b",
+  "importedAt": "2026-10-04T15:48:13Z"
+}

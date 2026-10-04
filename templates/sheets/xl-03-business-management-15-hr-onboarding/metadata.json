@@ -1,0 +1,35 @@
+{
+  "id": "xl-03-business-management-15-hr-onboarding",
+  "name": "HR Onboarding",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Business Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "03_Business_Management/15_HR_Onboarding.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9888,
+  "sha256": "66aa83b46da950592772b015be01d57d4a81367e2041acb212b13727ad37916e",
+  "importedAt": "2026-10-04T15:48:06Z"
+}

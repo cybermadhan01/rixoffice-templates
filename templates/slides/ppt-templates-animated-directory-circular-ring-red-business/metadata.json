@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-directory-circular-ring-red-business",
+  "name": "Circular Ring Red Business",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/directory/circular_ring_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29724,
+  "sha256": "0971cc918976f853ad55e33559c4df00e1bbe058b0e9130b17e3cf12e9f68e2e",
+  "importedAt": "2026-10-04T15:47:56Z"
+}

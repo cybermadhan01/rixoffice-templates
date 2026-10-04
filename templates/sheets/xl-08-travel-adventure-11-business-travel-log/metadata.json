@@ -1,0 +1,35 @@
+{
+  "id": "xl-08-travel-adventure-11-business-travel-log",
+  "name": "Business Travel Log",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Travel Adventure",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "08_Travel_Adventure/11_Business_Travel_Log.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9767,
+  "sha256": "c5aa3a956478c40d611ff70f12c5482a961a22779cdcf03d84fb2c4b5bdac96b",
+  "importedAt": "2026-10-04T15:48:12Z"
+}

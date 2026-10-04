@@ -1,0 +1,35 @@
+{
+  "id": "xl-09-creative-hobbies-05-photography-log",
+  "name": "Photography Log",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Creative Hobbies",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "09_Creative_Hobbies/05_Photography_Log.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10355,
+  "sha256": "9c4614c4f02c010f3a63b4a11cf6aeb25e45ed7cc15edd2578c469c6fd586a66",
+  "importedAt": "2026-10-04T15:48:13Z"
+}

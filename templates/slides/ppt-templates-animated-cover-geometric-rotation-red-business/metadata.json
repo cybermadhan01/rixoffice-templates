@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-geometric-rotation-red-business",
+  "name": "Geometric Rotation Red Business",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/geometric_rotation_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29381,
+  "sha256": "4a1444712ee66a06e251cc36ea1fa93078b18cd76b79294cc51d923ccbd616ce",
+  "importedAt": "2026-10-04T15:47:55Z"
+}

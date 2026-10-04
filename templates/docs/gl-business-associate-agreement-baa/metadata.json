@@ -1,0 +1,35 @@
+{
+  "id": "gl-business-associate-agreement-baa",
+  "name": "Business Associate Agreement Baa",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Contracts",
+  "tags": [
+    "legal",
+    "contract",
+    "cc0"
+  ],
+  "description": "Business Associate Agreement (BAA) — **Category:** Healthcare & Compliance **Format:** Microsoft Word (.DOCX) **Source:** [General Legal](https://general.legal/library/business-associate-agreement-baa) A Bus",
+  "source": {
+    "repository": "General-Legal/legal-templates",
+    "repository_url": "https://github.com/General-Legal/legal-templates",
+    "original_path": "docx-originals/business-associate-agreement-baa.docx",
+    "author": "General Legal",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 33897,
+  "sha256": "eb5c66e2b6cabfca8e58254028ae9f15bccc6ff0e150fde1b09210dd4fe57c05",
+  "importedAt": "2026-10-04T15:47:51Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mdt-readme-template",
+  "name": "Readme Template",
+  "format": "md",
+  "category": "Business",
+  "subcategory": "Documentation",
+  "tags": [
+    "markdown",
+    "notes",
+    "document"
+  ],
+  "description": "1 sections, 106 words",
+  "source": {
+    "repository": "Fokuus/markdown-templates",
+    "repository_url": "https://github.com/Fokuus/markdown-templates",
+    "original_path": "templates/readme-template.md",
+    "author": "Fokuus",
+    "license": "MIT",
+    "license_url": "https://github.com/Fokuus/markdown-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 661,
+  "sha256": "693370b19114f6c6f1cad8aee86e3fd446929eedea78d71aabb317245426ac7c",
+  "importedAt": "2026-10-04T15:48:43Z"
+}

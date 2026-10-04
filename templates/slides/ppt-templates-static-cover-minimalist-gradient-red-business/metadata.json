@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-minimalist-gradient-red-business",
+  "name": "Minimalist Gradient Red Business",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/minimalist_gradient_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28730,
+  "sha256": "9e4da9c7514083459751ad84f53ba8d872591f116912afa2c7254f687144dea8",
+  "importedAt": "2026-10-04T15:48:00Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "xl-06-life-lifestyle-04-pet-care",
+  "name": "Pet Care",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Life Lifestyle",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "06_Life_Lifestyle/04_Pet_Care.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10079,
+  "sha256": "5cb5776a42a5d2ed9a39e6f148c25231ecf3a39b4a34c8edc48853abc697b3cf",
+  "importedAt": "2026-10-04T15:48:09Z"
+}

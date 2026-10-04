@@ -1,0 +1,35 @@
+{
+  "id": "tex-conferences-doctoral-consortium-abstract",
+  "name": "Doctoral Consortium Abstract",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "conferences/doctoral-consortium-abstract/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 213115,
+  "sha256": "9fa836461dfb6e42ebd80d1e9bc5f4a541ba5d0d01984f5248cc760175646f83",
+  "importedAt": "2026-10-04T15:48:21Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "xl-06-life-lifestyle-15-decluttering-plan",
+  "name": "Decluttering Plan",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Life Lifestyle",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "06_Life_Lifestyle/15_Decluttering_Plan.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10084,
+  "sha256": "059318b4f2b00abbdaa249dc58e66dad6cfae27b6ef43e9cadabadc56c442359",
+  "importedAt": "2026-10-04T15:48:10Z"
+}

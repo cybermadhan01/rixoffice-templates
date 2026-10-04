@@ -1,0 +1,35 @@
+{
+  "id": "tex-lab-documents-biochemistry-experimental-protocol",
+  "name": "Biochemistry Experimental Protocol",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "lab-documents/biochemistry-experimental-protocol/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 229270,
+  "sha256": "2b62308b1f88fc4e5888cd618a6ebe4fe53495dd53d8cd3cb461cd642b9d2368",
+  "importedAt": "2026-10-04T15:48:29Z"
+}

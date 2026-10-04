@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-directory-hexagon-ocean-blue",
+  "name": "Hexagon Ocean Blue",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/directory/hexagon_ocean_blue.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29113,
+  "sha256": "3b004932609c8a3ee8b5fd309e2e846df6c73d468c60ce5804ddfdba72d1f6bd",
+  "importedAt": "2026-10-04T15:47:56Z"
+}

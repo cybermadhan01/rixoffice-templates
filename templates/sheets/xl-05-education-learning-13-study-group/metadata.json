@@ -1,0 +1,35 @@
+{
+  "id": "xl-05-education-learning-13-study-group",
+  "name": "Study Group",
+  "format": "xlsx",
+  "category": "Education",
+  "subcategory": "Education Learning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "05_Education_Learning/13_Study_Group.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10391,
+  "sha256": "0c3c0824c123416350b1d35e3bd5bd7fb8dc301f325373fcf9ae1ceec6a15c46",
+  "importedAt": "2026-10-04T15:48:09Z"
+}

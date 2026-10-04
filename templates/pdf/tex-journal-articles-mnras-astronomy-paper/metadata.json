@@ -1,0 +1,35 @@
+{
+  "id": "tex-journal-articles-mnras-astronomy-paper",
+  "name": "Mnras Astronomy Paper",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "journal-articles/mnras-astronomy-paper/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 231131,
+  "sha256": "aad056ea3bc2eb867a9eaa3770386259215489e2c2fa4e6ce6c1b50bc5cfb21f",
+  "importedAt": "2026-10-04T15:48:28Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mdr-fullstack-developer",
+  "name": "Fullstack Developer",
+  "format": "md",
+  "category": "Personal",
+  "subcategory": "Careers",
+  "tags": [
+    "resume",
+    "cv",
+    "markdown",
+    "ats"
+  ],
+  "description": "1 sections, 630 words",
+  "source": {
+    "repository": "markdownresume/markdown-resume-templates",
+    "repository_url": "https://github.com/markdownresume/markdown-resume-templates",
+    "original_path": "templates/fullstack-developer.md",
+    "author": "markdownresume",
+    "license": "MIT",
+    "license_url": "https://github.com/markdownresume/markdown-resume-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 4869,
+  "sha256": "fee9d7e368a5f045652a1c1018f9980bda818ef02563dd3ded343a8315628b38",
+  "importedAt": "2026-10-04T15:48:42Z"
+}

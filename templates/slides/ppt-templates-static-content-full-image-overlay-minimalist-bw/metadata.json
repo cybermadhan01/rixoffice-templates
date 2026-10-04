@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-content-full-image-overlay-minimalist-bw",
+  "name": "Full Image Overlay Minimalist Bw",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Content",
+  "tags": [
+    "slides",
+    "presentation",
+    "content"
+  ],
+  "description": "2 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/content/full_image_overlay_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30720,
+  "sha256": "06b2dcfbfac49f421d0cd700dafe89ad25320df4343d282e0943d3721a3caeb7",
+  "importedAt": "2026-10-04T15:47:58Z"
+}

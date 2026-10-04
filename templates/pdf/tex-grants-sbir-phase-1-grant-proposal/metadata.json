@@ -1,0 +1,35 @@
+{
+  "id": "tex-grants-sbir-phase-1-grant-proposal",
+  "name": "Sbir Phase 1 Grant Proposal",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "grants/sbir-phase-1-grant-proposal/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 233552,
+  "sha256": "b102db5e3a0b4e9db2adcf36f2ed3c1e42242a9f302540e222fc055214940bad",
+  "importedAt": "2026-10-04T15:48:27Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "xl-03-business-management-04-cash-flow-forecast",
+  "name": "Cash Flow Forecast",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Business Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "03_Business_Management/04_Cash_Flow_Forecast.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9816,
+  "sha256": "8edef3ba4604513ca55b92913bee3ee6d5ae855043063cc8b9d48ca96399b1b1",
+  "importedAt": "2026-10-04T15:48:06Z"
+}

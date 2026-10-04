@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-team-person-card-red-business",
+  "name": "Person Card Red Business",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Team",
+  "tags": [
+    "slides",
+    "presentation",
+    "team"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/team/person_card_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29644,
+  "sha256": "81a8c639983c23b394ec650a3e2827ea6e5b59afe65af80d205423f0465b125a",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

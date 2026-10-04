@@ -1,0 +1,35 @@
+{
+  "id": "xl-08-travel-adventure-05-road-trip-route",
+  "name": "Road Trip Route",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Travel Adventure",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "08_Travel_Adventure/05_Road_Trip_Route.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9769,
+  "sha256": "fd028e564bc92e293d22aea8d2c303906067f7164b74aaa6369add633ff1086f",
+  "importedAt": "2026-10-04T15:48:12Z"
+}

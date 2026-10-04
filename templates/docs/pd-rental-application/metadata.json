@@ -1,0 +1,36 @@
+{
+  "id": "pd-rental-application",
+  "name": "Rental Application",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Property",
+  "tags": [
+    "property",
+    "lease",
+    "rental",
+    "agreement"
+  ],
+  "description": "25 paragraphs",
+  "source": {
+    "repository": "PandaDoc/property-agreement-templates",
+    "repository_url": "https://github.com/PandaDoc/property-agreement-templates",
+    "original_path": "templates/rental-application.md",
+    "author": "PandaDoc",
+    "license": "MIT",
+    "license_url": "https://github.com/PandaDoc/property-agreement-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37284,
+  "sha256": "4ef98b711ce762a5e87dc60c507cdc78bd0bfc809392ea7886bfefc53654a28e",
+  "importedAt": "2026-10-04T15:47:53Z"
+}

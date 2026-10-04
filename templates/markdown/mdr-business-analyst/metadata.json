@@ -1,0 +1,36 @@
+{
+  "id": "mdr-business-analyst",
+  "name": "Business Analyst",
+  "format": "md",
+  "category": "Personal",
+  "subcategory": "Careers",
+  "tags": [
+    "resume",
+    "cv",
+    "markdown",
+    "ats"
+  ],
+  "description": "1 sections, 701 words",
+  "source": {
+    "repository": "markdownresume/markdown-resume-templates",
+    "repository_url": "https://github.com/markdownresume/markdown-resume-templates",
+    "original_path": "templates/business-analyst.md",
+    "author": "markdownresume",
+    "license": "MIT",
+    "license_url": "https://github.com/markdownresume/markdown-resume-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 5483,
+  "sha256": "8dcb2ac1016a4df9897da350491bbf4e39590042f08a0252b69ce5d58eb6b491",
+  "importedAt": "2026-10-04T15:48:42Z"
+}

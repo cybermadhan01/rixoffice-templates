@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-train-mist-blue-technology",
+  "name": "Train Mist Blue Technology",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/train_mist_blue_technology.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30041,
+  "sha256": "d12479e84820d8428d5e071e73f63c4b8ccf1c4b08b2fc1200927f2fee60a303",
+  "importedAt": "2026-10-04T15:47:55Z"
+}

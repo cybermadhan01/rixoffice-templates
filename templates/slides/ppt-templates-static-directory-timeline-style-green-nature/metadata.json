@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-directory-timeline-style-green-nature",
+  "name": "Timeline Style Green Nature",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/directory/timeline_style_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29681,
+  "sha256": "92eb844215735c12939f49e30ca41c2abdc3c1a7709d2db4f63d4f5aa3598bc4",
+  "importedAt": "2026-10-04T15:48:01Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-split-screen-dark-gold",
+  "name": "Split Screen Dark Gold",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/split_screen_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28791,
+  "sha256": "018612e85292fd29769619533a7bf53350d59f9c2957a32dfe1c22d7a9f98488",
+  "importedAt": "2026-10-04T15:48:00Z"
+}

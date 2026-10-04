@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-diamond-reveal-blue-technology",
+  "name": "Diamond Reveal Blue Technology",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/diamond_reveal_blue_technology.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30286,
+  "sha256": "ee8701ab08cb68726ac1e2f903b02f0b6053a96a913506a1aac794098eb48ee3",
+  "importedAt": "2026-10-04T15:47:55Z"
+}

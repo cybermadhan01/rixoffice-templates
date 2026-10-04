@@ -1,0 +1,35 @@
+{
+  "id": "xl-08-travel-adventure-15-local-food-guide",
+  "name": "Local Food Guide",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Travel Adventure",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "08_Travel_Adventure/15_Local_Food_Guide.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9768,
+  "sha256": "94fe033b659e0ac49cb52884342162b4a8eebc0207c01adff2b7a397a5bcf24f",
+  "importedAt": "2026-10-04T15:48:12Z"
+}

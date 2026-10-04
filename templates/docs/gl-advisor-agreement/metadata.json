@@ -1,0 +1,35 @@
+{
+  "id": "gl-advisor-agreement",
+  "name": "Advisor Agreement",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Contracts",
+  "tags": [
+    "legal",
+    "contract",
+    "cc0"
+  ],
+  "description": "Advisor Agreement — 1. **Services**. Advisor agrees to consult with and advise Company at Company's request (the \"***Services***\"), including by <mark>[(describe services)]</mark> on <mark>[",
+  "source": {
+    "repository": "General-Legal/legal-templates",
+    "repository_url": "https://github.com/General-Legal/legal-templates",
+    "original_path": "docx-originals/advisor-agreement.docx",
+    "author": "General Legal",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 51291,
+  "sha256": "a04ab52656f1cba31b61eaf989b1c6aeb00145a9465c789ece9475e4f9cd070d",
+  "importedAt": "2026-10-04T15:47:51Z"
+}

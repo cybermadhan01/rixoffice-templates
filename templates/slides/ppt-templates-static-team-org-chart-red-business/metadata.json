@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-team-org-chart-red-business",
+  "name": "Org Chart Red Business",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Team",
+  "tags": [
+    "slides",
+    "presentation",
+    "team"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/team/org_chart_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30576,
+  "sha256": "29bcd5994b50d41a2f6a0226aff0912226d4b3a9071c507336498bb93a06bca5",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

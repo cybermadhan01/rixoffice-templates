@@ -1,0 +1,35 @@
+{
+  "id": "xl-08-travel-adventure-07-travel-insurance",
+  "name": "Travel Insurance",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Travel Adventure",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "08_Travel_Adventure/07_Travel_Insurance.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9735,
+  "sha256": "323f3253608fb6b35024304d66f7370f1db0a30a4dde5882736b386948243b00",
+  "importedAt": "2026-10-04T15:48:12Z"
+}

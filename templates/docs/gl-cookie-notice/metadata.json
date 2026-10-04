@@ -1,0 +1,35 @@
+{
+  "id": "gl-cookie-notice",
+  "name": "Cookie Notice",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Contracts",
+  "tags": [
+    "legal",
+    "contract",
+    "cc0"
+  ],
+  "description": "Cookie Notice — **Category:** Privacy & Compliance **Format:** Microsoft Word (.DOCX) **Source:** [General Legal](https://general.legal/library/cookie-notice) A Cookie Notice explains ho",
+  "source": {
+    "repository": "General-Legal/legal-templates",
+    "repository_url": "https://github.com/General-Legal/legal-templates",
+    "original_path": "docx-originals/cookie-notice.docx",
+    "author": "General Legal",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 22745,
+  "sha256": "521f61a50a525f8bdc007cedcbb9525d50f442f24b4a1fdbd36161ad113b1df4",
+  "importedAt": "2026-10-04T15:47:51Z"
+}

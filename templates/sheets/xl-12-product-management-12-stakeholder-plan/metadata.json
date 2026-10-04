@@ -1,0 +1,35 @@
+{
+  "id": "xl-12-product-management-12-stakeholder-plan",
+  "name": "Stakeholder Plan",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Product Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "12_Product_Management/12_Stakeholder_Plan.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10367,
+  "sha256": "eb18c9ffc2f1d2244024ce25811f30f7aef06cd536438129a1bc4c7f4b2053f0",
+  "importedAt": "2026-10-04T15:48:17Z"
+}

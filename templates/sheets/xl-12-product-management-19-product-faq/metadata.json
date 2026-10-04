@@ -1,0 +1,35 @@
+{
+  "id": "xl-12-product-management-19-product-faq",
+  "name": "Product FAQ",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Product Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "12_Product_Management/19_Product_FAQ.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10420,
+  "sha256": "b53e0d01c4a25b212abbadd81739af219b599b1043b3684bbb95ca5a545e2217",
+  "importedAt": "2026-10-04T15:48:17Z"
+}

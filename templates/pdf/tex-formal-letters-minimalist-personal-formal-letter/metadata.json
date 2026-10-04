@@ -1,0 +1,35 @@
+{
+  "id": "tex-formal-letters-minimalist-personal-formal-letter",
+  "name": "Minimalist Personal Formal Letter",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "formal-letters/minimalist-personal-formal-letter/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 125678,
+  "sha256": "87fc7e640db925392cd2644785398a03432238a7d811778cf344c285aea059c8",
+  "importedAt": "2026-10-04T15:48:26Z"
+}

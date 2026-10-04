@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-directory-sidebar-red-business",
+  "name": "Sidebar Red Business",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/directory/sidebar_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29287,
+  "sha256": "dad751042afbdbc7ff1730b9d99d4274c29b4ebb4e6e34aca2c35cedcb9c4c3d",
+  "importedAt": "2026-10-04T15:48:01Z"
+}

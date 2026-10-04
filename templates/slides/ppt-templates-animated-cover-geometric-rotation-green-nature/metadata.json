@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-geometric-rotation-green-nature",
+  "name": "Geometric Rotation Green Nature",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/geometric_rotation_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29384,
+  "sha256": "f4bde2c578f7946c3ec9a29e53f8e3e40e6a330b7cb78393feca563a1a0ab732",
+  "importedAt": "2026-10-04T15:47:55Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tex-presentations-beamer-minimal-math-lecture",
+  "name": "Beamer Minimal Math Lecture",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "presentations/beamer-minimal-math-lecture/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 17051,
+  "sha256": "bfe255e2bccbf7d5f086b27bdbfddb4ecf3ce07d7b6c7df86bcc136f0deba14f",
+  "importedAt": "2026-10-04T15:48:37Z"
+}

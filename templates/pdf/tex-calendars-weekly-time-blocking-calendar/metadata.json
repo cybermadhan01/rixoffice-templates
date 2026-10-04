@@ -1,0 +1,35 @@
+{
+  "id": "tex-calendars-weekly-time-blocking-calendar",
+  "name": "Weekly Time Blocking Calendar",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "calendars/weekly-time-blocking-calendar/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 166608,
+  "sha256": "a996a860b03858e1ac8ce6aeb2949f7d74e2150fe2ea83a5f78d90690d946f96",
+  "importedAt": "2026-10-04T15:48:21Z"
+}

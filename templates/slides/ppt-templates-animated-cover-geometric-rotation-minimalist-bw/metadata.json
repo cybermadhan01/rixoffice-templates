@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-geometric-rotation-minimalist-bw",
+  "name": "Geometric Rotation Minimalist Bw",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/geometric_rotation_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29375,
+  "sha256": "e12a464086516bc81c14e6db2b9eebe3a61254761cbe9258986873cddc87b6e2",
+  "importedAt": "2026-10-04T15:47:55Z"
+}

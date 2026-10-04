@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-circle-ring-minimalist-bw",
+  "name": "Circle Ring Minimalist Bw",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/circle_ring_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29806,
+  "sha256": "e1172c875f496b46b3beed634b8ab8151e9765c4710530717df0b3c728effe5a",
+  "importedAt": "2026-10-04T15:47:54Z"
+}

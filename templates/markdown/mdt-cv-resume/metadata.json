@@ -1,0 +1,35 @@
+{
+  "id": "mdt-cv-resume",
+  "name": "Cv Resume",
+  "format": "md",
+  "category": "Business",
+  "subcategory": "Documentation",
+  "tags": [
+    "markdown",
+    "notes",
+    "document"
+  ],
+  "description": "1 sections, 98 words",
+  "source": {
+    "repository": "Fokuus/markdown-templates",
+    "repository_url": "https://github.com/Fokuus/markdown-templates",
+    "original_path": "templates/cv-resume.md",
+    "author": "Fokuus",
+    "license": "MIT",
+    "license_url": "https://github.com/Fokuus/markdown-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 704,
+  "sha256": "ee331466bc60592ebbe8639eb4a8da7741b49196344e96dd38ee50dba0ed715a",
+  "importedAt": "2026-10-04T15:48:43Z"
+}

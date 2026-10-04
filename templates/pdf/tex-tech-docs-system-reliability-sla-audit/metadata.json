@@ -1,0 +1,35 @@
+{
+  "id": "tex-tech-docs-system-reliability-sla-audit",
+  "name": "System Reliability Sla Audit",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "tech-docs/system-reliability-sla-audit/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 194617,
+  "sha256": "682fc71c2b64278206a954357b8386cf7dcf1d39090a57069154f159dd3c4ee0",
+  "importedAt": "2026-10-04T15:48:40Z"
+}

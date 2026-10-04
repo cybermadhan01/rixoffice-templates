@@ -1,0 +1,35 @@
+{
+  "id": "xl-09-creative-hobbies-11-painting-tracker",
+  "name": "Painting Tracker",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Creative Hobbies",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "09_Creative_Hobbies/11_Painting_Tracker.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10350,
+  "sha256": "ad5dc1845fa3ca117039a824a7af24347c94d58bf1ddceb19e168bfe95f1870b",
+  "importedAt": "2026-10-04T15:48:13Z"
+}

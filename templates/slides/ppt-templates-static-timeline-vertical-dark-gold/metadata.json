@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-timeline-vertical-dark-gold",
+  "name": "Vertical Dark Gold",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Timeline",
+  "tags": [
+    "slides",
+    "presentation",
+    "timeline"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/timeline/vertical_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29448,
+  "sha256": "405d97d9eab943bab961019b48710667b154cc135b95d6b1a2343627827328b3",
+  "importedAt": "2026-10-04T15:48:03Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-team-person-card-green-nature",
+  "name": "Person Card Green Nature",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Team",
+  "tags": [
+    "slides",
+    "presentation",
+    "team"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/team/person_card_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29643,
+  "sha256": "0326a2a7a7eff77b883a89d29e19f1b76c715d66de8b1d66e751088af81fdb21",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

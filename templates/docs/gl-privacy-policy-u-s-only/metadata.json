@@ -1,0 +1,35 @@
+{
+  "id": "gl-privacy-policy-u-s-only",
+  "name": "Privacy Policy U S Only",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Contracts",
+  "tags": [
+    "legal",
+    "contract",
+    "cc0"
+  ],
+  "description": "Privacy Policy (U.S. Only) — **Category:** Privacy & Compliance **Format:** Microsoft Word (.DOCX) **Source:** [General Legal](https://general.legal/library/privacy-policy-u-s-only) This template exp",
+  "source": {
+    "repository": "General-Legal/legal-templates",
+    "repository_url": "https://github.com/General-Legal/legal-templates",
+    "original_path": "docx-originals/privacy-policy-u-s-only.docx",
+    "author": "General Legal",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 50856,
+  "sha256": "8c0f67cde316dfc11e9d0cc58e2a2b5a5f3068b523e7fdcd0b2be08f8954b7db",
+  "importedAt": "2026-10-04T15:47:52Z"
+}

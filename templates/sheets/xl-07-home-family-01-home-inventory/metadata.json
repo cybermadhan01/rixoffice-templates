@@ -1,0 +1,35 @@
+{
+  "id": "xl-07-home-family-01-home-inventory",
+  "name": "Home Inventory",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Home Family",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "07_Home_Family/01_Home_Inventory.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10169,
+  "sha256": "57c90dddf2fbab1798eb0346ca1aa0fda82aa5b9e3b07004d7931a3b90f38299",
+  "importedAt": "2026-10-04T15:48:10Z"
+}

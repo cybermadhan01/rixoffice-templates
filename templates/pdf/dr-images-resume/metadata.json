@@ -1,0 +1,36 @@
+{
+  "id": "dr-images-resume",
+  "name": "Resume",
+  "format": "pdf",
+  "category": "Business",
+  "subcategory": "Reports",
+  "tags": [
+    "html",
+    "pdf",
+    "invoice",
+    "report"
+  ],
+  "description": "HTML-to-PDF template, delivered as a PDF of its first page.",
+  "source": {
+    "repository": "DocRaptor/html-to-pdf-templates",
+    "repository_url": "https://github.com/DocRaptor/html-to-pdf-templates",
+    "original_path": "images/resume.png",
+    "author": "DocRaptor",
+    "license": "MIT",
+    "license_url": "https://github.com/DocRaptor/html-to-pdf-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 132931,
+  "sha256": "88f3172c8b5edf44737f0af523396e23a4d344c5a2c229849fb3f88b804c7d64",
+  "importedAt": "2026-10-04T15:48:41Z"
+}

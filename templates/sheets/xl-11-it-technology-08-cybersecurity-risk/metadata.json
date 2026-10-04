@@ -1,0 +1,35 @@
+{
+  "id": "xl-11-it-technology-08-cybersecurity-risk",
+  "name": "Cybersecurity Risk",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "It Technology",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "11_IT_Technology/08_Cybersecurity_Risk.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10366,
+  "sha256": "c1d3d7e9249f11cdb15c40bd63c59b572e277fe530523663737c2389106bbcc1",
+  "importedAt": "2026-10-04T15:48:16Z"
+}

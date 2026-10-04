@@ -1,0 +1,35 @@
+{
+  "id": "tex-formal-letters-akletter-corporate-letterhead",
+  "name": "Akletter Corporate Letterhead",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "formal-letters/akletter-corporate-letterhead/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 134776,
+  "sha256": "131ad78c113daa309da26ad642bb10f2da6641e9f9aff5a320266800f88d525f",
+  "importedAt": "2026-10-04T15:48:24Z"
+}

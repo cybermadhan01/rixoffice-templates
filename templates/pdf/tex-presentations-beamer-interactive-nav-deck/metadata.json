@@ -1,0 +1,35 @@
+{
+  "id": "tex-presentations-beamer-interactive-nav-deck",
+  "name": "Beamer Interactive Nav Deck",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "presentations/beamer-interactive-nav-deck/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 25561,
+  "sha256": "8f90c848cee458d47dd2e1a399d8b56ed5c1e5781017bb37e59d3d09d1b5f20a",
+  "importedAt": "2026-10-04T15:48:37Z"
+}

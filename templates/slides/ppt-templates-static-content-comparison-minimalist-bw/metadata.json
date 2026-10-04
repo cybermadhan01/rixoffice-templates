@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-content-comparison-minimalist-bw",
+  "name": "Comparison Minimalist Bw",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Content",
+  "tags": [
+    "slides",
+    "presentation",
+    "content"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/content/comparison_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29399,
+  "sha256": "20d57b9d3cf068f5bb6afa372a1e1a5fabcd945fa09f0ff8c9270051fa41109a",
+  "importedAt": "2026-10-04T15:47:58Z"
+}

@@ -1,0 +1,23 @@
+Rixoffice template: Commercial Lease Agreement
+==================================================
+
+Template id : pd-commercial-lease-agreement
+Format      : DOCX
+Source      : PandaDoc/property-agreement-templates
+Upstream    : https://github.com/PandaDoc/property-agreement-templates
+Original    : templates/commercial-lease-agreement.md
+Author      : PandaDoc
+Licence     : MIT
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Retain this notice in any redistribution: "<template name>" by {author}, from {repo}, MIT licensed.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

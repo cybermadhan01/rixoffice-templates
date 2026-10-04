@@ -1,0 +1,35 @@
+{
+  "id": "xl-07-home-family-04-garden-planner",
+  "name": "Garden Planner",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Home Family",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "07_Home_Family/04_Garden_Planner.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10173,
+  "sha256": "cad7203c63b3233a0d017a25e96c2811b08fe701df22fe6bcee4e97f1bc5d7ea",
+  "importedAt": "2026-10-04T15:48:11Z"
+}

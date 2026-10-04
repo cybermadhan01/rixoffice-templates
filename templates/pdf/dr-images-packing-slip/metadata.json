@@ -1,0 +1,36 @@
+{
+  "id": "dr-images-packing-slip",
+  "name": "Packing Slip",
+  "format": "pdf",
+  "category": "Business",
+  "subcategory": "Reports",
+  "tags": [
+    "html",
+    "pdf",
+    "invoice",
+    "report"
+  ],
+  "description": "HTML-to-PDF template, delivered as a PDF of its first page.",
+  "source": {
+    "repository": "DocRaptor/html-to-pdf-templates",
+    "repository_url": "https://github.com/DocRaptor/html-to-pdf-templates",
+    "original_path": "images/packing-slip.png",
+    "author": "DocRaptor",
+    "license": "MIT",
+    "license_url": "https://github.com/DocRaptor/html-to-pdf-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 88881,
+  "sha256": "51f9d5456efbbb7b01c2d4acc8368c88b896dc85c16af5562df96bc18fca3129",
+  "importedAt": "2026-10-04T15:48:40Z"
+}

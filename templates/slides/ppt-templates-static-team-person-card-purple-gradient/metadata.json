@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-team-person-card-purple-gradient",
+  "name": "Person Card Purple Gradient",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Team",
+  "tags": [
+    "slides",
+    "presentation",
+    "team"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/team/person_card_purple_gradient.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29644,
+  "sha256": "128f1c83a2b4725fecabda044f79ffd5627b66c40b44b0ce5de06f4f41acbd3c",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dr-images-estimate",
+  "name": "Estimate",
+  "format": "pdf",
+  "category": "Business",
+  "subcategory": "Reports",
+  "tags": [
+    "html",
+    "pdf",
+    "invoice",
+    "report"
+  ],
+  "description": "HTML-to-PDF template, delivered as a PDF of its first page.",
+  "source": {
+    "repository": "DocRaptor/html-to-pdf-templates",
+    "repository_url": "https://github.com/DocRaptor/html-to-pdf-templates",
+    "original_path": "images/estimate.png",
+    "author": "DocRaptor",
+    "license": "MIT",
+    "license_url": "https://github.com/DocRaptor/html-to-pdf-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 115156,
+  "sha256": "cca266b6f0a3d29875f188fc319e8ea8816070a52c78bdcd121a4efdd4e6b927",
+  "importedAt": "2026-10-04T15:48:40Z"
+}

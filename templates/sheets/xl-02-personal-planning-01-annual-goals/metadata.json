@@ -1,0 +1,35 @@
+{
+  "id": "xl-02-personal-planning-01-annual-goals",
+  "name": "Annual Goals",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Personal Planning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "02_Personal_Planning/01_Annual_Goals.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10160,
+  "sha256": "a44dce23bb15d6abbb689916ab5348ca6df0aff3024926c01c0ef6fcdd4021d3",
+  "importedAt": "2026-10-04T15:48:04Z"
+}

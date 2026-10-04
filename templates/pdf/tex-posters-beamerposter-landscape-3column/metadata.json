@@ -1,0 +1,35 @@
+{
+  "id": "tex-posters-beamerposter-landscape-3column",
+  "name": "Beamerposter Landscape 3column",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "posters/beamerposter-landscape-3column/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 293544,
+  "sha256": "fc33ed504fa0a2cd7574754ba571c4c202a96cf61a11aeead7b871b2d63f5976",
+  "importedAt": "2026-10-04T15:48:35Z"
+}

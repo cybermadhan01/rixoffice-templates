@@ -1,0 +1,35 @@
+{
+  "id": "tex-academic-career-tenure-dossier-research-statement",
+  "name": "Tenure Dossier Research Statement",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "academic-career/tenure-dossier-research-statement/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 257222,
+  "sha256": "2984ce20c380785153c17efab140c64a4b335b617bf1bb38ff77705af415bdb1",
+  "importedAt": "2026-10-04T15:48:18Z"
+}

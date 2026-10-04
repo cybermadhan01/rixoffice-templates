@@ -1,0 +1,23 @@
+Rixoffice template: Project Post Mortem
+==================================================
+
+Template id : dz-project-post-mortem
+Format      : DOCX
+Source      : documize/document-templates
+Upstream    : https://github.com/documize/document-templates
+Original    : project-management/project-post-mortem.docx
+Author      : documize
+Licence     : MIT
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Retain this notice in any redistribution: "<template name>" by {author}, from {repo}, MIT licensed.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

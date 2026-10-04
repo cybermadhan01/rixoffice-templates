@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-content-comparison-blue-technology",
+  "name": "Comparison Blue Technology",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Content",
+  "tags": [
+    "slides",
+    "presentation",
+    "content"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/content/comparison_blue_technology.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29407,
+  "sha256": "5b5ffd6f4d9b98b6d9cb7f6599b21bec3a3eacedb225a8bc3935ebf44b9e31c6",
+  "importedAt": "2026-10-04T15:47:58Z"
+}

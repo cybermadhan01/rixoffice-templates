@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-ending-thank-you-green-nature",
+  "name": "Thank You Green Nature",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Closing",
+  "tags": [
+    "slides",
+    "presentation",
+    "ending"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/ending/thank_you_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29488,
+  "sha256": "8352ee65d9acee2a242066630518d6fc969ccc6d3130cf15dca786e31834f937",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-ending-qr-code-purple-gradient",
+  "name": "Qr Code Purple Gradient",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Closing",
+  "tags": [
+    "slides",
+    "presentation",
+    "ending"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/ending/qr_code_purple_gradient.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29621,
+  "sha256": "a483bbce9be989a8a67b4dba2ba79566f263d8c4759229f74f5abaeb9c6b534d",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

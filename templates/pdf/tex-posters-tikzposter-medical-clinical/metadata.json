@@ -1,0 +1,35 @@
+{
+  "id": "tex-posters-tikzposter-medical-clinical",
+  "name": "Tikzposter Medical Clinical",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "posters/tikzposter-medical-clinical/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 242231,
+  "sha256": "7f6325b670bc17e362fb67c740f1f31055257c432f6ca15ec0f6faf9e5f45c7f",
+  "importedAt": "2026-10-04T15:48:36Z"
+}

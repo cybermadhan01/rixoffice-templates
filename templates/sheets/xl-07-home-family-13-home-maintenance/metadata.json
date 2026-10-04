@@ -1,0 +1,35 @@
+{
+  "id": "xl-07-home-family-13-home-maintenance",
+  "name": "Home Maintenance",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Home Family",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "07_Home_Family/13_Home_Maintenance.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10143,
+  "sha256": "9780a8357b421e2e2e299c51d3742449b0cc129850086814ef5ff864c18c5465",
+  "importedAt": "2026-10-04T15:48:11Z"
+}

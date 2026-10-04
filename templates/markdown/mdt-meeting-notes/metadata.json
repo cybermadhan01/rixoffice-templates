@@ -1,0 +1,35 @@
+{
+  "id": "mdt-meeting-notes",
+  "name": "Meeting Notes",
+  "format": "md",
+  "category": "Business",
+  "subcategory": "Documentation",
+  "tags": [
+    "markdown",
+    "notes",
+    "document"
+  ],
+  "description": "1 sections, 92 words",
+  "source": {
+    "repository": "Fokuus/markdown-templates",
+    "repository_url": "https://github.com/Fokuus/markdown-templates",
+    "original_path": "templates/meeting-notes.md",
+    "author": "Fokuus",
+    "license": "MIT",
+    "license_url": "https://github.com/Fokuus/markdown-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 512,
+  "sha256": "2627ecf9305ca89483cae463f851e8f24a2c54ace1bc8d8b102d4ebcbbfcf680",
+  "importedAt": "2026-10-04T15:48:43Z"
+}

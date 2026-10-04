@@ -1,0 +1,35 @@
+{
+  "id": "mdt-technical-spec",
+  "name": "Technical Spec",
+  "format": "md",
+  "category": "Business",
+  "subcategory": "Documentation",
+  "tags": [
+    "markdown",
+    "notes",
+    "document"
+  ],
+  "description": "1 sections, 190 words",
+  "source": {
+    "repository": "Fokuus/markdown-templates",
+    "repository_url": "https://github.com/Fokuus/markdown-templates",
+    "original_path": "templates/technical-spec.md",
+    "author": "Fokuus",
+    "license": "MIT",
+    "license_url": "https://github.com/Fokuus/markdown-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 1197,
+  "sha256": "f5243df8051f83adb0367c874f9041baa680c82b309a6dad4f12534077bdfefd",
+  "importedAt": "2026-10-04T15:48:43Z"
+}

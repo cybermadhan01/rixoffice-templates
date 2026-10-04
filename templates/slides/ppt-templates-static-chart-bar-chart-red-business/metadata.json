@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-chart-bar-chart-red-business",
+  "name": "Bar Chart Red Business",
+  "format": "pptx",
+  "category": "Reports",
+  "subcategory": "Charts",
+  "tags": [
+    "slides",
+    "presentation",
+    "chart"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/chart/bar_chart_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29513,
+  "sha256": "2e20f2bc6ce13dcc2c48679a343f59b81e7c337b23e1948b8b72cde2f6edfe8e",
+  "importedAt": "2026-10-04T15:47:57Z"
+}

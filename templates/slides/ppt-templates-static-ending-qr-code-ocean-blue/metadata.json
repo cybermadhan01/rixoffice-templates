@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-ending-qr-code-ocean-blue",
+  "name": "Qr Code Ocean Blue",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Closing",
+  "tags": [
+    "slides",
+    "presentation",
+    "ending"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/ending/qr_code_ocean_blue.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29617,
+  "sha256": "d53fd7311eef62217e6c0ceab696470232e4f705bd5ee5fc6a6210380fcaac4d",
+  "importedAt": "2026-10-04T15:48:01Z"
+}

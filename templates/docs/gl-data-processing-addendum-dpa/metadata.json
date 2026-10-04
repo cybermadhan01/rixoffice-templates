@@ -1,0 +1,35 @@
+{
+  "id": "gl-data-processing-addendum-dpa",
+  "name": "Data Processing Addendum Dpa",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Contracts",
+  "tags": [
+    "legal",
+    "contract",
+    "cc0"
+  ],
+  "description": "Attorney-drafted legal template, released under CC0.",
+  "source": {
+    "repository": "General-Legal/legal-templates",
+    "repository_url": "https://github.com/General-Legal/legal-templates",
+    "original_path": "docx-originals/data-processing-addendum-dpa.docx",
+    "author": "General Legal",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 47846,
+  "sha256": "9dbf91b0f0be72584574fc54d0710d2e828c6fb03b228a335b4caeb1721ad843",
+  "importedAt": "2026-10-04T15:47:51Z"
+}

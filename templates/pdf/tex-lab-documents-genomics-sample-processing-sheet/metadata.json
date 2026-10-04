@@ -1,0 +1,35 @@
+{
+  "id": "tex-lab-documents-genomics-sample-processing-sheet",
+  "name": "Genomics Sample Processing Sheet",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "lab-documents/genomics-sample-processing-sheet/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 156754,
+  "sha256": "d89d65e67fcdd67926927e3f20b4fe9900e6019ebb1859638f006846aea89d18",
+  "importedAt": "2026-10-04T15:48:30Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "xl-04-health-fitness-15-wellness-journal",
+  "name": "Wellness Journal",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Health Fitness",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "04_Health_Fitness/15_Wellness_Journal.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10086,
+  "sha256": "6fab79be93c18f6d28e5f7f8cfb2abd8033033c534bc5473c9b4f5d878b42937",
+  "importedAt": "2026-10-04T15:48:08Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-split-screen-minimalist-bw",
+  "name": "Split Screen Minimalist Bw",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/split_screen_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28782,
+  "sha256": "0a4d7bac0c759096e2b0c7e32160ed9ad26833aec70a1096659f3dc872a7ef2f",
+  "importedAt": "2026-10-04T15:48:00Z"
+}

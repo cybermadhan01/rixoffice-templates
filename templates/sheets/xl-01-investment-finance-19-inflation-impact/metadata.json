@@ -1,0 +1,35 @@
+{
+  "id": "xl-01-investment-finance-19-inflation-impact",
+  "name": "Inflation Impact",
+  "format": "xlsx",
+  "category": "Finance",
+  "subcategory": "Investment Finance",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "01_Investment_Finance/19_Inflation_Impact.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9861,
+  "sha256": "19d233d72e6d0a416a1f2a6e60106f620e1f49d0a93ddbc2590dd79df024aca3",
+  "importedAt": "2026-10-04T15:48:04Z"
+}

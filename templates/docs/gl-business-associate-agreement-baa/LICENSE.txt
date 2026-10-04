@@ -1,0 +1,23 @@
+Rixoffice template: Business Associate Agreement Baa
+==================================================
+
+Template id : gl-business-associate-agreement-baa
+Format      : DOCX
+Source      : General-Legal/legal-templates
+Upstream    : https://github.com/General-Legal/legal-templates
+Original    : docx-originals/business-associate-agreement-baa.docx
+Author      : General Legal
+Licence     : CC0-1.0
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Not required: the upstream work is dedicated to the public domain under CC0-1.0.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

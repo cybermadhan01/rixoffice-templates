@@ -1,0 +1,35 @@
+{
+  "id": "gl-mutual-non-disclosure-agreement-nda",
+  "name": "Mutual Non Disclosure Agreement Nda",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Contracts",
+  "tags": [
+    "legal",
+    "contract",
+    "cc0"
+  ],
+  "description": "Mutual Non-Disclosure Agreement (NDA) — **Category:** Agreements **Format:** Microsoft Word (.DOCX) **Source:** [General Legal](https://general.legal/library/mutual-non-disclosure-agreement-nda) A Mutual Non-Di",
+  "source": {
+    "repository": "General-Legal/legal-templates",
+    "repository_url": "https://github.com/General-Legal/legal-templates",
+    "original_path": "docx-originals/mutual-non-disclosure-agreement-nda.docx",
+    "author": "General Legal",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 45385,
+  "sha256": "8ac96ec92564e69e7aaa11f01d49b858edfef5514d073d8247669180495986f5",
+  "importedAt": "2026-10-04T15:47:52Z"
+}

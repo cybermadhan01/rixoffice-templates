@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-ending-thank-you-dark-gold",
+  "name": "Thank You Dark Gold",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Closing",
+  "tags": [
+    "slides",
+    "presentation",
+    "ending"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/ending/thank_you_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29488,
+  "sha256": "a7ea5e160174848acbcd451574a2aa9811f8372dae60f3daac284f566e116858",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

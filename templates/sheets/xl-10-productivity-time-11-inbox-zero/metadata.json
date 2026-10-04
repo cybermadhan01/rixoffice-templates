@@ -1,0 +1,35 @@
+{
+  "id": "xl-10-productivity-time-11-inbox-zero",
+  "name": "Inbox Zero",
+  "format": "xlsx",
+  "category": "Project Management",
+  "subcategory": "Productivity Time",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "10_Productivity_Time/11_Inbox_Zero.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10460,
+  "sha256": "41d1c37879f851f2270963262149b3c06683d9115dab20f8d77e50151674f800",
+  "importedAt": "2026-10-04T15:48:15Z"
+}

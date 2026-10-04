@@ -1,0 +1,35 @@
+{
+  "id": "xl-01-investment-finance-13-college-savings-529",
+  "name": "College Savings 529",
+  "format": "xlsx",
+  "category": "Finance",
+  "subcategory": "Investment Finance",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "01_Investment_Finance/13_College_Savings_529.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9941,
+  "sha256": "4bcdb73fbc99ccb8b84ce60a191423c1bbf0801d2b86b4935641405417a31ea6",
+  "importedAt": "2026-10-04T15:48:04Z"
+}

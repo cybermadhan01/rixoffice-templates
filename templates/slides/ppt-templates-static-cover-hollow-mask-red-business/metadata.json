@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-hollow-mask-red-business",
+  "name": "Hollow Mask Red Business",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/hollow_mask_red_business.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28902,
+  "sha256": "d0091bda5c124771bc8c85c6f7ef8096783a6da1b1917f8ab3b7a94d4c86bbf9",
+  "importedAt": "2026-10-04T15:47:59Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-circle-ring-ocean-blue",
+  "name": "Circle Ring Ocean Blue",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/circle_ring_ocean_blue.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29810,
+  "sha256": "ff77c5500b4cf520c8c6bce8c05ea05dfa0b88e37ea1198ba18e3bdefc014acd",
+  "importedAt": "2026-10-04T15:47:54Z"
+}

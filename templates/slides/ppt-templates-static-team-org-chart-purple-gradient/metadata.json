@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-team-org-chart-purple-gradient",
+  "name": "Org Chart Purple Gradient",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Team",
+  "tags": [
+    "slides",
+    "presentation",
+    "team"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/team/org_chart_purple_gradient.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30579,
+  "sha256": "a3d8fa8f5d77aaf6846108a092300742dba7976221daea43819e4f37be0392fd",
+  "importedAt": "2026-10-04T15:48:02Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tex-lab-documents-bioinformatics-pipeline-log",
+  "name": "Bioinformatics Pipeline Log",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "lab-documents/bioinformatics-pipeline-log/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 132200,
+  "sha256": "23cc3f5417b1e112671c1d1b4f7f9e10e5ee8338fed03b3202ddac3a73b3d75d",
+  "importedAt": "2026-10-04T15:48:29Z"
+}

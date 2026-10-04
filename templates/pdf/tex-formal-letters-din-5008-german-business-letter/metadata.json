@@ -1,0 +1,35 @@
+{
+  "id": "tex-formal-letters-din-5008-german-business-letter",
+  "name": "Din 5008 German Business Letter",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "formal-letters/din-5008-german-business-letter/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 161956,
+  "sha256": "8ec2148b863bdceaa204c186cc6e60cdd965b8d245695f466079ef60f25f19c3",
+  "importedAt": "2026-10-04T15:48:25Z"
+}

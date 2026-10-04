@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-directory-timeline-style-blue-technology",
+  "name": "Timeline Style Blue Technology",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/directory/timeline_style_blue_technology.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29681,
+  "sha256": "13e29a9fa4bccb1c152a2ec482064977929ff43c54ae8e45de37d49e9ae270f5",
+  "importedAt": "2026-10-04T15:48:01Z"
+}

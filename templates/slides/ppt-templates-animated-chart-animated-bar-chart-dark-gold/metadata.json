@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-chart-animated-bar-chart-dark-gold",
+  "name": "Animated Bar Chart Dark Gold",
+  "format": "pptx",
+  "category": "Reports",
+  "subcategory": "Charts",
+  "tags": [
+    "slides",
+    "presentation",
+    "chart"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/chart/animated_bar_chart_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30012,
+  "sha256": "e4678f8a1dcaa7753204c8c8123bfc494f66172ff657db86876b24dfcc840e67",
+  "importedAt": "2026-10-04T15:47:54Z"
+}

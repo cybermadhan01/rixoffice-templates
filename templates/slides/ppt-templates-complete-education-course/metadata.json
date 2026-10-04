@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-complete-education-course",
+  "name": "Education Course",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Slides",
+  "tags": [
+    "slides",
+    "presentation",
+    "deck"
+  ],
+  "description": "18 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/complete/education_course.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 57198,
+  "sha256": "35ef9a7780b21e413738e4389a154b04057e22ba9787bdd63c41c900ea270cf3",
+  "importedAt": "2026-10-04T15:47:57Z"
+}

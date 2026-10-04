@@ -1,7 +1,18 @@
 {
-  "catalogVersion": 1,
-  "schema": 1,
-  "builtAt": "2026-10-04T13:18:31Z",
-  "builder": "tools/template-importer/build.py",
-  "count": 62
+  "catalogVersion": 2,
+  "schema": 2,
+  "builtAt": "2026-10-04T15:48:43Z",
+  "builder": "tools/template-importer/import_sources.py",
+  "count": 703,
+  "sources": {
+    "legal": 12,
+    "pandadoc": 9,
+    "documize": 9,
+    "ppt": 237,
+    "excel": 240,
+    "latex": 166,
+    "docraptor": 8,
+    "mdresume": 19,
+    "mdtpl": 4
+  }
 }

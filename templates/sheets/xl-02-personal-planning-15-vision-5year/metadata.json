@@ -1,0 +1,35 @@
+{
+  "id": "xl-02-personal-planning-15-vision-5year",
+  "name": "Vision 5Year",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Personal Planning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "02_Personal_Planning/15_Vision_5Year.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9954,
+  "sha256": "910ac5b3be571750e5e5779388aef4d144057b5da551db2468f0ff29ec64bad6",
+  "importedAt": "2026-10-04T15:48:05Z"
+}

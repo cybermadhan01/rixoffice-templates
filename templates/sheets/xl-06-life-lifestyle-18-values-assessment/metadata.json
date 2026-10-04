@@ -1,0 +1,35 @@
+{
+  "id": "xl-06-life-lifestyle-18-values-assessment",
+  "name": "Values Assessment",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Life Lifestyle",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "06_Life_Lifestyle/18_Values_Assessment.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10094,
+  "sha256": "4e0d1142bde24713bb94e42328295cd1720cbf3445a17e0d3c6db80bce2b6c81",
+  "importedAt": "2026-10-04T15:48:10Z"
+}

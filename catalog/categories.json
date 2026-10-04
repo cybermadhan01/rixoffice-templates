@@ -1,84 +1,67 @@
 {
-  "version": 1,
-  "updatedAt": "2026-10-04T13:18:31Z",
-  "total": 62,
+  "version": 2,
+  "updatedAt": "2026-10-04T15:48:43Z",
+  "total": 703,
   "formats": {
-    "md": 11,
-    "docx": 20,
-    "pptx": 11,
-    "xlsx": 11,
-    "pdf": 9
+    "docx": 29,
+    "md": 23,
+    "pdf": 174,
+    "pptx": 237,
+    "xlsx": 240
   },
   "categories": {
     "Business": {
-      "count": 20,
+      "count": 232,
       "formats": {
-        "md": 6,
-        "docx": 7,
-        "pptx": 3,
-        "xlsx": 1,
-        "pdf": 3
-      }
-    },
-    "Education": {
-      "count": 9,
-      "formats": {
-        "xlsx": 2,
-        "pdf": 2,
-        "pptx": 2,
-        "docx": 2,
-        "md": 1
-      }
-    },
-    "Finance": {
-      "count": 7,
-      "formats": {
-        "xlsx": 5,
-        "docx": 1,
-        "pdf": 1
+        "docx": 8,
+        "md": 4,
+        "pdf": 8,
+        "pptx": 132,
+        "xlsx": 80
       }
     },
     "Legal": {
-      "count": 4,
+      "count": 21,
       "formats": {
-        "docx": 4
-      }
-    },
-    "Marketing": {
-      "count": 5,
-      "formats": {
-        "md": 1,
-        "pptx": 3,
-        "docx": 1
+        "docx": 21
       }
     },
     "Personal": {
-      "count": 5,
+      "count": 119,
       "formats": {
-        "docx": 3,
-        "pdf": 2
+        "md": 19,
+        "xlsx": 100
       }
     },
-    "Project Management": {
-      "count": 8,
+    "Education": {
+      "count": 186,
       "formats": {
-        "xlsx": 3,
-        "md": 3,
-        "docx": 1,
-        "pptx": 1
+        "pdf": 166,
+        "xlsx": 20
       }
     },
-    "Proposal": {
-      "count": 3,
+    "Marketing": {
+      "count": 77,
       "formats": {
-        "pptx": 2,
-        "docx": 1
+        "pptx": 77
       }
     },
     "Reports": {
-      "count": 1,
+      "count": 28,
       "formats": {
-        "pdf": 1
+        "pptx": 28
+      }
+    },
+    "Finance": {
+      "count": 20,
+      "formats": {
+        "xlsx": 20
+      }
+    },
+    "Project Management": {
+      "count": 20,
+      "formats": {
+        "xlsx": 20
       }
     }
   }

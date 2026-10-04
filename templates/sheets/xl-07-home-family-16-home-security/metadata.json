@@ -1,0 +1,35 @@
+{
+  "id": "xl-07-home-family-16-home-security",
+  "name": "Home Security",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Home Family",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "07_Home_Family/16_Home_Security.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10167,
+  "sha256": "606becebb1a2c4d8de61e331ad9de18f0ed933681d399d90f829cf17b6412094",
+  "importedAt": "2026-10-04T15:48:11Z"
+}

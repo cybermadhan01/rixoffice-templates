@@ -1,0 +1,35 @@
+{
+  "id": "xl-10-productivity-time-05-gtd-system",
+  "name": "GTD System",
+  "format": "xlsx",
+  "category": "Project Management",
+  "subcategory": "Productivity Time",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "10_Productivity_Time/05_GTD_System.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10469,
+  "sha256": "c79fbe5c4761d266332a71ffbaf682a53f3b3169cb0e9d5ae2dfef976b0efcdc",
+  "importedAt": "2026-10-04T15:48:14Z"
+}

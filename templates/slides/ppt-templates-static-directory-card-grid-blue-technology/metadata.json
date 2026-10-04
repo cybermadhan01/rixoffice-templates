@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-directory-card-grid-blue-technology",
+  "name": "Card Grid Blue Technology",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/directory/card_grid_blue_technology.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29760,
+  "sha256": "c55ed554e8d2b1c1c7a758f7e6b956ed9d6675ed7d4d8c9610519733602ab4ac",
+  "importedAt": "2026-10-04T15:48:00Z"
+}

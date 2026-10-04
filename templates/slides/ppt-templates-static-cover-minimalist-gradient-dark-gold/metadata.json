@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-minimalist-gradient-dark-gold",
+  "name": "Minimalist Gradient Dark Gold",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/minimalist_gradient_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28730,
+  "sha256": "4382874343277b2b67ef861f5ffd0f5e5aae6eb6077d532893f4be59cbec370f",
+  "importedAt": "2026-10-04T15:48:00Z"
+}

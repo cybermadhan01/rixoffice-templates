@@ -1,0 +1,35 @@
+{
+  "id": "gl-one-way-non-disclosure-agreement-nda",
+  "name": "One Way Non Disclosure Agreement Nda",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Contracts",
+  "tags": [
+    "legal",
+    "contract",
+    "cc0"
+  ],
+  "description": "One-Way Non-Disclosure Agreement (NDA) — **Category:** Agreements **Format:** Microsoft Word (.DOCX) **Source:** [General Legal](https://general.legal/library/one-way-non-disclosure-agreement-nda) A one-way NDA ",
+  "source": {
+    "repository": "General-Legal/legal-templates",
+    "repository_url": "https://github.com/General-Legal/legal-templates",
+    "original_path": "docx-originals/one-way-non-disclosure-agreement-nda.docx",
+    "author": "General Legal",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 44366,
+  "sha256": "fa47ff25b7939e93e0ccd41bd3a78b5cf6486e6f3dc041aed8644066ec69a5dd",
+  "importedAt": "2026-10-04T15:47:52Z"
+}

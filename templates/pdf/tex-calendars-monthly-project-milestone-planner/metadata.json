@@ -1,0 +1,35 @@
+{
+  "id": "tex-calendars-monthly-project-milestone-planner",
+  "name": "Monthly Project Milestone Planner",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "calendars/monthly-project-milestone-planner/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 131771,
+  "sha256": "20c6c066dd0853dbdc98cfacf9a2f654e47348ae6f1d7032b1fd9eb6b01895bf",
+  "importedAt": "2026-10-04T15:48:21Z"
+}

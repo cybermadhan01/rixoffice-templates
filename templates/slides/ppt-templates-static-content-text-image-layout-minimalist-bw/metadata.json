@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-content-text-image-layout-minimalist-bw",
+  "name": "Text Image Layout Minimalist Bw",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Content",
+  "tags": [
+    "slides",
+    "presentation",
+    "content"
+  ],
+  "description": "2 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/content/text_image_layout_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30655,
+  "sha256": "af7286dbe204efcdba6f6e0a0f3f22a5256bcf3812bb989c274033d990614d6d",
+  "importedAt": "2026-10-04T15:47:59Z"
+}

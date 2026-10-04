@@ -1,0 +1,35 @@
+{
+  "id": "xl-02-personal-planning-10-personal-brand",
+  "name": "Personal Brand",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Personal Planning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "02_Personal_Planning/10_Personal_Brand.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9949,
+  "sha256": "d472eb7a2e5d2143ab34bc9a142d3b31521ff5acec6805986df767e00bf1420e",
+  "importedAt": "2026-10-04T15:48:05Z"
+}

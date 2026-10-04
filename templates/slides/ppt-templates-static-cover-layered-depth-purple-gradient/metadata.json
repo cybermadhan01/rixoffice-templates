@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-layered-depth-purple-gradient",
+  "name": "Layered Depth Purple Gradient",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/layered_depth_purple_gradient.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28913,
+  "sha256": "b8151b44c21d6bedd0784c59a69853a4457b8084972ad926682f96c755630d50",
+  "importedAt": "2026-10-04T15:48:00Z"
+}

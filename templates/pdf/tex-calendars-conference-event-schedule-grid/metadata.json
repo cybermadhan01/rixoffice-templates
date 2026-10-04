@@ -1,0 +1,35 @@
+{
+  "id": "tex-calendars-conference-event-schedule-grid",
+  "name": "Conference Event Schedule Grid",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "calendars/conference-event-schedule-grid/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 70288,
+  "sha256": "a9994a91e3299f02ff3aa03274fa1bef4e2de22fa22ea0baae7471010b6a2c2e",
+  "importedAt": "2026-10-04T15:48:21Z"
+}

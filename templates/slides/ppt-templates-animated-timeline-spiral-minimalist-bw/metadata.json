@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-timeline-spiral-minimalist-bw",
+  "name": "Spiral Minimalist Bw",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Timeline",
+  "tags": [
+    "slides",
+    "presentation",
+    "timeline"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/timeline/spiral_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29393,
+  "sha256": "15756c1d28459563e54d254db3361db7fd8ec015d1f95108965f01c62f625fa1",
+  "importedAt": "2026-10-04T15:47:57Z"
+}

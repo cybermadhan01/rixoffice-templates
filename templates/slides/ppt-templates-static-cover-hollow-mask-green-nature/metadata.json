@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-hollow-mask-green-nature",
+  "name": "Hollow Mask Green Nature",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/hollow_mask_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28903,
+  "sha256": "b06998ddc9c6d65b1dc334d236a14cf17865c4b5f18c4c3572980b2fdcfcec92",
+  "importedAt": "2026-10-04T15:47:59Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tex-assignments-modern-minimalist-homework-solutions",
+  "name": "Modern Minimalist Homework Solutions",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "assignments/modern-minimalist-homework-solutions/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 147243,
+  "sha256": "a4dd8a55deed6e26057a56de33a4054c81f2e344f20a327fc7c511e730009e8f",
+  "importedAt": "2026-10-04T15:48:19Z"
+}

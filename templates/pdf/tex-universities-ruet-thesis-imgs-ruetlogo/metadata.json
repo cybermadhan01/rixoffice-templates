@@ -1,0 +1,35 @@
+{
+  "id": "tex-universities-ruet-thesis-imgs-ruetlogo",
+  "name": "Ruetlogo",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "Compiled LaTeX template (PDF from the repository).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "universities/ruet-thesis/imgs/ruetlogo.pdf",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 329,
+  "sha256": "15f9b0a034f6a27bd542d044b84749c74f6f49d1b0a9cae3c254a56f86aa88b2",
+  "importedAt": "2026-10-04T15:48:18Z"
+}

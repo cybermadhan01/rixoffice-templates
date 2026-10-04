@@ -1,0 +1,35 @@
+{
+  "id": "xl-07-home-family-20-holiday-planner",
+  "name": "Holiday Planner",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Home Family",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "07_Home_Family/20_Holiday_Planner.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10144,
+  "sha256": "902cd4475afc70b40ebc6fd55455a77c20a44fbb6cc499aacf04e806637eca1d",
+  "importedAt": "2026-10-04T15:48:12Z"
+}

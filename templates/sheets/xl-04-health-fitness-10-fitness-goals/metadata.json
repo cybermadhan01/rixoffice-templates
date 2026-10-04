@@ -1,0 +1,35 @@
+{
+  "id": "xl-04-health-fitness-10-fitness-goals",
+  "name": "Fitness Goals",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Health Fitness",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "04_Health_Fitness/10_Fitness_Goals.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10074,
+  "sha256": "2fc3c27f6ce900932976b186de5dcf4d640150504dcbccc4d25057037f4819b0",
+  "importedAt": "2026-10-04T15:48:07Z"
+}

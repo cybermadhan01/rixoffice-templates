@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-directory-circular-ring-green-nature",
+  "name": "Circular Ring Green Nature",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Agenda",
+  "tags": [
+    "slides",
+    "presentation",
+    "directory"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/directory/circular_ring_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29724,
+  "sha256": "8350d00901468ef92c39ff8cd68a2179b4432b22987ce8abd7258ce703fa15d2",
+  "importedAt": "2026-10-04T15:47:55Z"
+}

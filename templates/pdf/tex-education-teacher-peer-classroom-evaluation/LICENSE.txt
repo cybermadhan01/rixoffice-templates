@@ -1,0 +1,23 @@
+Rixoffice template: Teacher Peer Classroom Evaluation
+==================================================
+
+Template id : tex-education-teacher-peer-classroom-evaluation
+Format      : PDF
+Source      : shihabshahrier/Latex_Templates
+Upstream    : https://github.com/shihabshahrier/Latex_Templates
+Original    : education/teacher-peer-classroom-evaluation/preview.png
+Author      : Shahriar Labs
+Licence     : MIT
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Retain this notice in any redistribution: "<template name>" by {author}, from {repo}, MIT licensed.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

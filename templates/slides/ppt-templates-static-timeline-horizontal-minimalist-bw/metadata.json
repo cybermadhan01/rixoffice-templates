@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-timeline-horizontal-minimalist-bw",
+  "name": "Horizontal Minimalist Bw",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Timeline",
+  "tags": [
+    "slides",
+    "presentation",
+    "timeline"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/timeline/horizontal_minimalist_bw.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29467,
+  "sha256": "8f55a575756637be07333badc026e50cfe716b0d2404e1b6bfabe082eb4ccb09",
+  "importedAt": "2026-10-04T15:48:03Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-content-full-image-overlay-purple-gradient",
+  "name": "Full Image Overlay Purple Gradient",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Content",
+  "tags": [
+    "slides",
+    "presentation",
+    "content"
+  ],
+  "description": "2 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/content/full_image_overlay_purple_gradient.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30731,
+  "sha256": "ec79b67a4430ef4330adf122c2f511e799e59aac968605577d81c8c22120641c",
+  "importedAt": "2026-10-04T15:47:59Z"
+}

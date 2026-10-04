@@ -1,0 +1,35 @@
+{
+  "id": "xl-03-business-management-01-business-canvas",
+  "name": "Business Canvas",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Business Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "03_Business_Management/01_Business_Canvas.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10003,
+  "sha256": "a276dbd5e23099da292a505300dc0e98bc1dccf8f612cb24b9479f34a0865835",
+  "importedAt": "2026-10-04T15:48:06Z"
+}

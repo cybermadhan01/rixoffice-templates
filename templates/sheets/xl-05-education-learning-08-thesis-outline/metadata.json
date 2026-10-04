@@ -1,0 +1,35 @@
+{
+  "id": "xl-05-education-learning-08-thesis-outline",
+  "name": "Thesis Outline",
+  "format": "xlsx",
+  "category": "Education",
+  "subcategory": "Education Learning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "05_Education_Learning/08_Thesis_Outline.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10397,
+  "sha256": "5836fa2c5c2a2bb40535b857a965a11a86919a7679b7730af90a58a3fa3d7d57",
+  "importedAt": "2026-10-04T15:48:08Z"
+}

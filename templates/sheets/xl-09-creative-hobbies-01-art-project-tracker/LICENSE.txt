@@ -1,0 +1,23 @@
+Rixoffice template: Art Project Tracker
+==================================================
+
+Template id : xl-09-creative-hobbies-01-art-project-tracker
+Format      : XLSX
+Source      : planoranest/excel-template
+Upstream    : https://github.com/planoranest/excel-template
+Original    : 09_Creative_Hobbies/01_Art_Project_Tracker.xlsx
+Author      : PlanoraNest
+Licence     : MIT
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Retain this notice in any redistribution: "<template name>" by {author}, from {repo}, MIT licensed.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

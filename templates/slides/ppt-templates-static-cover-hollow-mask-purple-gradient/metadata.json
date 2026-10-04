@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-cover-hollow-mask-purple-gradient",
+  "name": "Hollow Mask Purple Gradient",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/cover/hollow_mask_purple_gradient.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 28905,
+  "sha256": "c72662872fcbb666a4f1bf2d9d630d27e3423f707c65af4ee56f0b1954b223cb",
+  "importedAt": "2026-10-04T15:47:59Z"
+}

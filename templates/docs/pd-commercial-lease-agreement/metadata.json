@@ -1,0 +1,36 @@
+{
+  "id": "pd-commercial-lease-agreement",
+  "name": "Commercial Lease Agreement",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Property",
+  "tags": [
+    "property",
+    "lease",
+    "rental",
+    "agreement"
+  ],
+  "description": "18 paragraphs",
+  "source": {
+    "repository": "PandaDoc/property-agreement-templates",
+    "repository_url": "https://github.com/PandaDoc/property-agreement-templates",
+    "original_path": "templates/commercial-lease-agreement.md",
+    "author": "PandaDoc",
+    "license": "MIT",
+    "license_url": "https://github.com/PandaDoc/property-agreement-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37441,
+  "sha256": "e41f43797c0c5f4f0a224d7cf13e21075d2541817e9a10d73c9f7f164f55af9f",
+  "importedAt": "2026-10-04T15:47:52Z"
+}

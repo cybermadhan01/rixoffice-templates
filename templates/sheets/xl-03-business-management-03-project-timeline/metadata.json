@@ -1,0 +1,35 @@
+{
+  "id": "xl-03-business-management-03-project-timeline",
+  "name": "Project Timeline",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Business Management",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "7 sheets: 📊 Dashboard, 📋 Task Tracker, 💰 Budget & Resources",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "03_Business_Management/03_Project_Timeline.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 32531,
+  "sha256": "4c4c7db6eb3819df74dec7c3e653a2c7f6d31152fd4a2fbe4402d87a30920dcf",
+  "importedAt": "2026-10-04T15:48:06Z"
+}

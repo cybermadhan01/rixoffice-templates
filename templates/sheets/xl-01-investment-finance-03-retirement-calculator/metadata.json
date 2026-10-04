@@ -1,0 +1,35 @@
+{
+  "id": "xl-01-investment-finance-03-retirement-calculator",
+  "name": "Retirement Calculator",
+  "format": "xlsx",
+  "category": "Finance",
+  "subcategory": "Investment Finance",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "01_Investment_Finance/03_Retirement_Calculator.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10483,
+  "sha256": "900f42df8d83e907cfd3315d2fbe51259bfbc2c40c24fb2f2e8f20f8a9f25db5",
+  "importedAt": "2026-10-04T15:48:03Z"
+}

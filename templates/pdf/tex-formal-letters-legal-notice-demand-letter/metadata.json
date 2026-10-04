@@ -1,0 +1,35 @@
+{
+  "id": "tex-formal-letters-legal-notice-demand-letter",
+  "name": "Legal Notice Demand Letter",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "formal-letters/legal-notice-demand-letter/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 35422,
+  "sha256": "def4b89ab8e4077c8d67bcd0cfd2edb21d96333a52187ed40941c769cd955267",
+  "importedAt": "2026-10-04T15:48:26Z"
+}

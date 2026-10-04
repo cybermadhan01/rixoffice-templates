@@ -1,0 +1,36 @@
+{
+  "id": "pd-30-day-notice-to-landlord",
+  "name": "Day Notice to Landlord",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Property",
+  "tags": [
+    "property",
+    "lease",
+    "rental",
+    "agreement"
+  ],
+  "description": "14 paragraphs",
+  "source": {
+    "repository": "PandaDoc/property-agreement-templates",
+    "repository_url": "https://github.com/PandaDoc/property-agreement-templates",
+    "original_path": "templates/30-day-notice-to-landlord.md",
+    "author": "PandaDoc",
+    "license": "MIT",
+    "license_url": "https://github.com/PandaDoc/property-agreement-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37177,
+  "sha256": "3b352c70428db19a0038f129550587daf3631c793c0265d7bf03cd1ed03cc8a4",
+  "importedAt": "2026-10-04T15:47:52Z"
+}

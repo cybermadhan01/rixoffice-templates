@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-chart-pie-chart-dark-gold",
+  "name": "Pie Chart Dark Gold",
+  "format": "pptx",
+  "category": "Reports",
+  "subcategory": "Charts",
+  "tags": [
+    "slides",
+    "presentation",
+    "chart"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/chart/pie_chart_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29441,
+  "sha256": "1daee7ab6ea1c73f6001b1acf1019f52be961e1443f988a202fd99332a80ac5d",
+  "importedAt": "2026-10-04T15:47:58Z"
+}

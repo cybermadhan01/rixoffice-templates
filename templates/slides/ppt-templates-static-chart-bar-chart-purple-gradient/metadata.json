@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-static-chart-bar-chart-purple-gradient",
+  "name": "Bar Chart Purple Gradient",
+  "format": "pptx",
+  "category": "Reports",
+  "subcategory": "Charts",
+  "tags": [
+    "slides",
+    "presentation",
+    "chart"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/static/chart/bar_chart_purple_gradient.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29513,
+  "sha256": "501d32427b160d36ac5a8cdf6e8338363bd22d9cb8fcf048f8f3a3afebc3b58c",
+  "importedAt": "2026-10-04T15:47:57Z"
+}

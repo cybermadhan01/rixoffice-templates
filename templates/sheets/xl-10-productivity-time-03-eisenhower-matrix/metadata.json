@@ -1,0 +1,35 @@
+{
+  "id": "xl-10-productivity-time-03-eisenhower-matrix",
+  "name": "Eisenhower Matrix",
+  "format": "xlsx",
+  "category": "Project Management",
+  "subcategory": "Productivity Time",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "10_Productivity_Time/03_Eisenhower_Matrix.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10458,
+  "sha256": "0a1e3fcdfcb828b4c300b5c83fcbbf5dc5c4a240dbf1c57984a0362d5b340bf9",
+  "importedAt": "2026-10-04T15:48:14Z"
+}

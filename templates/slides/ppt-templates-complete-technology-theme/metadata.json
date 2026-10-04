@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-complete-technology-theme",
+  "name": "Technology Theme",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Slides",
+  "tags": [
+    "slides",
+    "presentation",
+    "deck"
+  ],
+  "description": "16 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/complete/technology_theme.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 53905,
+  "sha256": "9f25513bb70d79b2e6d07726b4ebcfc74e3589a63a5ef7d185d7e5663a582c07",
+  "importedAt": "2026-10-04T15:47:57Z"
+}

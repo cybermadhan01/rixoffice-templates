@@ -1,0 +1,35 @@
+{
+  "id": "xl-02-personal-planning-03-wheel-of-life",
+  "name": "Wheel of Life",
+  "format": "xlsx",
+  "category": "Business",
+  "subcategory": "Personal Planning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "02_Personal_Planning/03_Wheel_of_Life.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10305,
+  "sha256": "970a5c154f10941cd52cc869931a0fc36bb9eecf68dbd45909dfb8ec2aa8292c",
+  "importedAt": "2026-10-04T15:48:04Z"
+}

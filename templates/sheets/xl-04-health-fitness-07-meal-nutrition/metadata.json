@@ -1,0 +1,35 @@
+{
+  "id": "xl-04-health-fitness-07-meal-nutrition",
+  "name": "Meal Nutrition",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Health Fitness",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "04_Health_Fitness/07_Meal_Nutrition.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10084,
+  "sha256": "e53530baebf92274b47491f31ff260f186c687f80349b2f325f4ec479ba4a3de",
+  "importedAt": "2026-10-04T15:48:07Z"
+}

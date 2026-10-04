@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-geometric-rotation-dark-gold",
+  "name": "Geometric Rotation Dark Gold",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/geometric_rotation_dark_gold.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 29382,
+  "sha256": "49584b6da119cfe90aae0c2e2fd429a7ce7023014370469e33bf19d0a278c4ed",
+  "importedAt": "2026-10-04T15:47:55Z"
+}

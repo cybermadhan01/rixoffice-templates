@@ -1,0 +1,35 @@
+{
+  "id": "tex-formal-letters-corporate-board-resignation-letter",
+  "name": "Corporate Board Resignation Letter",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "formal-letters/corporate-board-resignation-letter/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 186858,
+  "sha256": "6f37c1e7b8a80609756aa44212d42ec362524ba55a9950812e682aeeb6cc2535",
+  "importedAt": "2026-10-04T15:48:25Z"
+}

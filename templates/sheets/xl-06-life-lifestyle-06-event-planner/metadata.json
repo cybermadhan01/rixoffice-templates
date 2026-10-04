@@ -1,0 +1,35 @@
+{
+  "id": "xl-06-life-lifestyle-06-event-planner",
+  "name": "Event Planner",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Life Lifestyle",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "06_Life_Lifestyle/06_Event_Planner.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10099,
+  "sha256": "a6338a7b81a8e8070ce162f14593f303f4eaaaf03ce134de681dfa0cc87b8c1c",
+  "importedAt": "2026-10-04T15:48:09Z"
+}

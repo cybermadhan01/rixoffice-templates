@@ -1,0 +1,23 @@
+Rixoffice template: Beamer Pastel Humanities
+==================================================
+
+Template id : tex-presentations-beamer-pastel-humanities
+Format      : PDF
+Source      : shihabshahrier/Latex_Templates
+Upstream    : https://github.com/shihabshahrier/Latex_Templates
+Original    : presentations/beamer-pastel-humanities/preview.png
+Author      : Shahriar Labs
+Licence     : MIT
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Retain this notice in any redistribution: "<template name>" by {author}, from {repo}, MIT licensed.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

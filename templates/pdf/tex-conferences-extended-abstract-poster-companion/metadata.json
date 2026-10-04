@@ -1,0 +1,35 @@
+{
+  "id": "tex-conferences-extended-abstract-poster-companion",
+  "name": "Extended Abstract Poster Companion",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "conferences/extended-abstract-poster-companion/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 197110,
+  "sha256": "648ba0f8e49c607cbeebb114cb86b6619b8ed1ec1239e2ad360f84e387e333ef",
+  "importedAt": "2026-10-04T15:48:21Z"
+}

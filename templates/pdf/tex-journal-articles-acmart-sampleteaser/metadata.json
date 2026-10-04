@@ -1,0 +1,35 @@
+{
+  "id": "tex-journal-articles-acmart-sampleteaser",
+  "name": "Sampleteaser",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "Compiled LaTeX template (PDF from the repository).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "journal-articles/acmart/sampleteaser.pdf",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 329,
+  "sha256": "0499b319a7781bb4c9b18fd12a2ab5d5f965acd130dc79f1bc5a75b2bab5421c",
+  "importedAt": "2026-10-04T15:48:18Z"
+}

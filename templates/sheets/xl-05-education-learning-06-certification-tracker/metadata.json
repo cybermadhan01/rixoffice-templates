@@ -1,0 +1,35 @@
+{
+  "id": "xl-05-education-learning-06-certification-tracker",
+  "name": "Certification Tracker",
+  "format": "xlsx",
+  "category": "Education",
+  "subcategory": "Education Learning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "05_Education_Learning/06_Certification_Tracker.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10388,
+  "sha256": "6e7294f3f9ef978c72c49d9b81501a1840544c689f07478c0f728a56ba949523",
+  "importedAt": "2026-10-04T15:48:08Z"
+}

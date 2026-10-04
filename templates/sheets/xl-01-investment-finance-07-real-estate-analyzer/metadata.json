@@ -1,0 +1,35 @@
+{
+  "id": "xl-01-investment-finance-07-real-estate-analyzer",
+  "name": "Real Estate Analyzer",
+  "format": "xlsx",
+  "category": "Finance",
+  "subcategory": "Investment Finance",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "01_Investment_Finance/07_Real_Estate_Analyzer.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 9912,
+  "sha256": "cd03f71f6ff9362ca085c145de3cf3a6d323f3d8100aacd5e55753e836db0357",
+  "importedAt": "2026-10-04T15:48:04Z"
+}

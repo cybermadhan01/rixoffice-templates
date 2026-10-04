@@ -1,0 +1,35 @@
+{
+  "id": "xl-09-creative-hobbies-19-animation-project",
+  "name": "Animation Project",
+  "format": "xlsx",
+  "category": "Personal",
+  "subcategory": "Creative Hobbies",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "09_Creative_Hobbies/19_Animation_Project.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10340,
+  "sha256": "d11fd2b1be3920c7dfd978f2af06194af8ac678e77d710ac3c3bc7115a072f39",
+  "importedAt": "2026-10-04T15:48:14Z"
+}

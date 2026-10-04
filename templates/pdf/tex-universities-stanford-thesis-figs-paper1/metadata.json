@@ -1,0 +1,35 @@
+{
+  "id": "tex-universities-stanford-thesis-figs-paper1",
+  "name": "Paper1",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "universities/stanford-thesis/figs/paper1/fig1.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 53552,
+  "sha256": "b55c9fc7ee4744323877c2236f04e29c4991cf16034c93cb062ed4a517f7fec5",
+  "importedAt": "2026-10-04T15:48:40Z"
+}

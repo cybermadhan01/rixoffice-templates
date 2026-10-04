@@ -1,0 +1,35 @@
+{
+  "id": "tex-tech-docs-saas-release-notes-changelog",
+  "name": "Saas Release Notes Changelog",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "tech-docs/saas-release-notes-changelog/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 166095,
+  "sha256": "3883d0ae71ab7d21aab398b4ced173c559d6e32ce32700e22e8e6477dbfa481f",
+  "importedAt": "2026-10-04T15:48:39Z"
+}

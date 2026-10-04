@@ -1,0 +1,23 @@
+Rixoffice template: SLA Tracker
+==================================================
+
+Template id : xl-11-it-technology-20-sla-tracker
+Format      : XLSX
+Source      : planoranest/excel-template
+Upstream    : https://github.com/planoranest/excel-template
+Original    : 11_IT_Technology/20_SLA_Tracker.xlsx
+Author      : PlanoraNest
+Licence     : MIT
+
+Upstream notice
+---------------
+This file was imported from the repository above and remains under its original
+licence. The Rixoffice catalog redistributes it with attribution, as required.
+
+Attribution
+-----------
+Retain this notice in any redistribution: "<template name>" by {author}, from {repo}, MIT licensed.
+
+Rixoffice notice
+----------------
+Packaging (catalog metadata, preview thumbnail, cache layout) is Rixoffice work.

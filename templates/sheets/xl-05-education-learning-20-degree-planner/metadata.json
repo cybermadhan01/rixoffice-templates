@@ -1,0 +1,35 @@
+{
+  "id": "xl-05-education-learning-20-degree-planner",
+  "name": "Degree Planner",
+  "format": "xlsx",
+  "category": "Education",
+  "subcategory": "Education Learning",
+  "tags": [
+    "excel",
+    "spreadsheet",
+    "tracker"
+  ],
+  "description": "3 sheets: 📊 Template, 📖 Instructions, ℹ️ About",
+  "source": {
+    "repository": "planoranest/excel-template",
+    "repository_url": "https://github.com/planoranest/excel-template",
+    "original_path": "05_Education_Learning/20_Degree_Planner.xlsx",
+    "author": "PlanoraNest",
+    "license": "MIT",
+    "license_url": "https://github.com/planoranest/excel-template/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 10398,
+  "sha256": "2bad7b581640510c92f72c31e653fcc3522cb50912a4f1a63c246f932da0b8c2",
+  "importedAt": "2026-10-04T15:48:09Z"
+}

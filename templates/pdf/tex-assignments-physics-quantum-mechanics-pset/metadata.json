@@ -1,0 +1,35 @@
+{
+  "id": "tex-assignments-physics-quantum-mechanics-pset",
+  "name": "Physics Quantum Mechanics Pset",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Academic",
+  "tags": [
+    "latex",
+    "academic",
+    "thesis"
+  ],
+  "description": "LaTeX template as a PDF of its first page (the repository ships source + preview, not a compiled PDF).",
+  "source": {
+    "repository": "shihabshahrier/Latex_Templates",
+    "repository_url": "https://github.com/shihabshahrier/Latex_Templates",
+    "original_path": "assignments/physics-quantum-mechanics-pset/preview.png",
+    "author": "Shahriar Labs",
+    "license": "MIT",
+    "license_url": "https://github.com/shihabshahrier/Latex_Templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": true
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 147589,
+  "sha256": "e19e992b6fabc66486d51598c84cab0a0c857ca819c3d4202cc831aedc5168a9",
+  "importedAt": "2026-10-04T15:48:20Z"
+}

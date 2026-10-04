@@ -1,0 +1,35 @@
+{
+  "id": "ppt-templates-animated-cover-diamond-reveal-green-nature",
+  "name": "Diamond Reveal Green Nature",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Cover",
+  "tags": [
+    "slides",
+    "presentation",
+    "cover"
+  ],
+  "description": "1 slides, 9144000 x 6858000 EMU",
+  "source": {
+    "repository": "wuhua2026/ppt-templates",
+    "repository_url": "https://github.com/wuhua2026/ppt-templates",
+    "original_path": "templates/animated/cover/diamond_reveal_green_nature.pptx",
+    "author": "wuhua2026",
+    "license": "MIT",
+    "license_url": "https://github.com/wuhua2026/ppt-templates/blob/main/LICENSE",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 30286,
+  "sha256": "2d4d00cdae2b0fc5ab8ffa183f8dfa674a3eb7ada981d8678843c6e3d8568ac2",
+  "importedAt": "2026-10-04T15:47:55Z"
+}
