@@ -1,0 +1,37 @@
+{
+  "id": "rix-slide-project-status",
+  "name": "Project Status Update",
+  "format": "pptx",
+  "category": "Project Management",
+  "subcategory": "Reporting",
+  "tags": [
+    "status",
+    "project",
+    "update",
+    "pm"
+  ],
+  "description": "Five-slide weekly update: status, done, in flight, risks, asks.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 34009,
+  "sha256": "adab1455bbdc0ff206e68c692b4c6b276581ba41a17f4079a0e1d1e13f948b61",
+  "previewSize": 18328,
+  "importedAt": "2026-10-04T13:18:28Z"
+}

@@ -1,0 +1,24 @@
+Rixoffice template: Meeting Notes
+==================================================
+
+Template id : rix-md-meeting-notes
+Format      : MD
+Licence     : CC0-1.0 (public domain dedication)
+Licence URL : https://creativecommons.org/publicdomain/zero/1.0/
+
+Copyright   : Rixoffice. This template body was authored for the Rixoffice
+              template catalog and is dedicated to the public domain under
+              CC0-1.0. You may use, copy, modify and redistribute it, including
+              for commercial purposes, without attribution.
+
+Provenance  : tools/template-importer/defs.py
+              (authored in the importer source, not copied from any third party)
+
+Attribution : NONE REQUIRED. If you would still like to credit the source, the
+              following is sufficient and is not a licence condition:
+
+              Template "Meeting Notes" from the Rixoffice template catalog
+              (https://github.com/cybermadhan01/rixoffice-templates)
+
+Third-party code, fonts or imagery are NOT included in this template. If you add
+any, you are responsible for checking and documenting their licence separately.

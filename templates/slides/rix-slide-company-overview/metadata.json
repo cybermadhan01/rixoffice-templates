@@ -1,0 +1,37 @@
+{
+  "id": "rix-slide-company-overview",
+  "name": "Company Overview",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Internal",
+  "tags": [
+    "overview",
+    "company",
+    "internal",
+    "onboarding"
+  ],
+  "description": "New-starter deck: what we do, how it works, where things live, who does what.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 35392,
+  "sha256": "0feac8f773f15ea7e4e59648c186d64235538901556867bf63bbbb6ca658584a",
+  "previewSize": 20120,
+  "importedAt": "2026-10-04T13:18:28Z"
+}

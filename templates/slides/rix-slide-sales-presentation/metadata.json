@@ -1,0 +1,37 @@
+{
+  "id": "rix-slide-sales-presentation",
+  "name": "Sales Presentation",
+  "format": "pptx",
+  "category": "Proposal",
+  "subcategory": "Sales",
+  "tags": [
+    "sales",
+    "presentation",
+    "demo",
+    "customer"
+  ],
+  "description": "Customer-facing sales deck that leads with their outcome, not your features.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 36602,
+  "sha256": "42a54f6adc4d69b565fa7f1cf46279c1bee26b36ac0bfa664e137cde74fcfe5e",
+  "previewSize": 18078,
+  "importedAt": "2026-10-04T13:18:29Z"
+}

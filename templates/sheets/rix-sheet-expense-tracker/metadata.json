@@ -1,0 +1,37 @@
+{
+  "id": "rix-sheet-expense-tracker",
+  "name": "Expense Tracker",
+  "format": "xlsx",
+  "category": "Finance",
+  "subcategory": "Expenses",
+  "tags": [
+    "expenses",
+    "finance",
+    "receipts",
+    "tracking"
+  ],
+  "description": "Categorised expense log with a receipt column and a monthly summary.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 6800,
+  "sha256": "bd0887858e132dc7242c6b2ff5e8e3ffb454624677fc6b3edde6ab92a5c9c863",
+  "previewSize": 18166,
+  "importedAt": "2026-10-04T13:18:27Z"
+}

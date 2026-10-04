@@ -1,0 +1,37 @@
+{
+  "id": "rix-slide-business-proposal",
+  "name": "Business Proposal",
+  "format": "pptx",
+  "category": "Proposal",
+  "subcategory": "Client work",
+  "tags": [
+    "proposal",
+    "sales",
+    "business",
+    "deck"
+  ],
+  "description": "Six-slide client proposal: problem, outcome, approach, timeline, investment, next step.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 35543,
+  "sha256": "03c33373cac6caba1143209727383b5f0067246717457aaa5f7497985f6f67eb",
+  "previewSize": 23640,
+  "importedAt": "2026-10-04T13:18:27Z"
+}

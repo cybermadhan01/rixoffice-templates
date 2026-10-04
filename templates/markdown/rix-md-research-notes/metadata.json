@@ -1,0 +1,37 @@
+{
+  "id": "rix-md-research-notes",
+  "name": "Research Notes",
+  "format": "md",
+  "category": "Education",
+  "subcategory": "Research",
+  "tags": [
+    "research",
+    "notes",
+    "markdown",
+    "study"
+  ],
+  "description": "Research log that keeps questions, sources and findings separate.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 791,
+  "sha256": "d200de8a0222556546fba10789d8ca071135a4536a16fda698eed4b992e9dc72",
+  "previewSize": 20570,
+  "importedAt": "2026-10-04T13:18:31Z"
+}

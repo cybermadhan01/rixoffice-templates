@@ -1,0 +1,37 @@
+{
+  "id": "rix-pdf-certificate",
+  "name": "Certificate of Completion",
+  "format": "pdf",
+  "category": "Education",
+  "subcategory": "Certificates",
+  "tags": [
+    "certificate",
+    "completion",
+    "pdf",
+    "education"
+  ],
+  "description": "Certificate layout with recipient block, course detail and signature line.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 2383,
+  "sha256": "a7c8e2122086cd6367601abdf235dcafc1616f1a1b513fc7cabcbe293e5c143a",
+  "previewSize": 15066,
+  "importedAt": "2026-10-04T13:18:29Z"
+}

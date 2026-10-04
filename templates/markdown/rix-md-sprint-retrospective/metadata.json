@@ -1,0 +1,37 @@
+{
+  "id": "rix-md-sprint-retrospective",
+  "name": "Sprint Retrospective",
+  "format": "md",
+  "category": "Project Management",
+  "subcategory": "Agile",
+  "tags": [
+    "retro",
+    "sprint",
+    "agile",
+    "markdown"
+  ],
+  "description": "Retrospective notes that produce one concrete change instead of a list of feelings.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 862,
+  "sha256": "e614a0720cb04637ddf590a9d8bd303fe4981ecd60c9ddcf8f9e5dd05c13e2d8",
+  "previewSize": 25736,
+  "importedAt": "2026-10-04T13:18:31Z"
+}

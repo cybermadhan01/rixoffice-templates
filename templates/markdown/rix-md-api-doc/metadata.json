@@ -1,0 +1,37 @@
+{
+  "id": "rix-md-api-doc",
+  "name": "API Documentation",
+  "format": "md",
+  "category": "Business",
+  "subcategory": "Documentation",
+  "tags": [
+    "api",
+    "documentation",
+    "reference",
+    "markdown"
+  ],
+  "description": "API reference page: endpoint, parameters, responses, errors, example request.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 1100,
+  "sha256": "f4cb80320a677aef96a9516177531c80cf1af033bcc5a384af72f49db99c94d5",
+  "previewSize": 18480,
+  "importedAt": "2026-10-04T13:18:31Z"
+}

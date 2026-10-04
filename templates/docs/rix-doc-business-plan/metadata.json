@@ -1,0 +1,37 @@
+{
+  "id": "rix-doc-business-plan",
+  "name": "Business Plan",
+  "format": "docx",
+  "category": "Business",
+  "subcategory": "Strategy",
+  "tags": [
+    "business",
+    "strategy",
+    "plan",
+    "startup"
+  ],
+  "description": "Full business plan skeleton: executive summary, market, model, ops, financials.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 38166,
+  "sha256": "2abde2d6cbe07160afc7e4e30524413b465865bc9d3da893ff06957c8cc27eaf",
+  "previewSize": 30232,
+  "importedAt": "2026-10-04T13:18:25Z"
+}

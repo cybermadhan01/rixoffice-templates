@@ -1,0 +1,37 @@
+{
+  "id": "rix-md-job-description",
+  "name": "Job Description",
+  "format": "md",
+  "category": "Business",
+  "subcategory": "Hiring",
+  "tags": [
+    "job",
+    "hiring",
+    "description",
+    "markdown"
+  ],
+  "description": "Job description that sells the role honestly: outcomes, requirements, process.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 1127,
+  "sha256": "3f68dd8904a7da6966ec488ccdb6676005711dd020c67dcb99d6c80fb602cdf9",
+  "previewSize": 29524,
+  "importedAt": "2026-10-04T13:18:31Z"
+}

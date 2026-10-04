@@ -1,0 +1,37 @@
+{
+  "id": "rix-slide-quarterly-review",
+  "name": "Quarterly Business Review",
+  "format": "pptx",
+  "category": "Business",
+  "subcategory": "Reporting",
+  "tags": [
+    "qbr",
+    "review",
+    "business",
+    "reporting"
+  ],
+  "description": "Quarterly review deck: scorecard, wins, misses, decisions needed.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 35393,
+  "sha256": "dbb4c99da56b37d2a19d8981edbb72b6793a824ae4815813543fd7a486ba4e3e",
+  "previewSize": 20366,
+  "importedAt": "2026-10-04T13:18:28Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "rix-md-meeting-notes",
+  "name": "Meeting Notes",
+  "format": "md",
+  "category": "Business",
+  "subcategory": "Meetings",
+  "tags": [
+    "notes",
+    "meeting",
+    "markdown",
+    "actions"
+  ],
+  "description": "Markdown meeting note with attendees, decisions and a checkbox action list.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 874,
+  "sha256": "f655716a0af73e6f74516665005cfc3aae933ea5543ceb13e3a747e9b751777b",
+  "previewSize": 25864,
+  "importedAt": "2026-10-04T13:18:30Z"
+}

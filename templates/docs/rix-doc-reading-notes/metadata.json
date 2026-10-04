@@ -1,0 +1,37 @@
+{
+  "id": "rix-doc-reading-notes",
+  "name": "Reading Notes",
+  "format": "docx",
+  "category": "Education",
+  "subcategory": "Study",
+  "tags": [
+    "notes",
+    "study",
+    "reading",
+    "learning"
+  ],
+  "description": "Cornell-style note structure: cues, notes, summary, and your own questions.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37454,
+  "sha256": "a3af3c0682d93e6bef00438f4932c089e80200d640c6d4be7e4067381a4aa997",
+  "previewSize": 24074,
+  "importedAt": "2026-10-04T13:18:26Z"
+}

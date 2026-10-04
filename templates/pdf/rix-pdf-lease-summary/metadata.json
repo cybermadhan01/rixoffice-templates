@@ -1,0 +1,37 @@
+{
+  "id": "rix-pdf-lease-summary",
+  "name": "Lease Summary Sheet",
+  "format": "pdf",
+  "category": "Personal",
+  "subcategory": "Property",
+  "tags": [
+    "lease",
+    "summary",
+    "property",
+    "pdf"
+  ],
+  "description": "One-page lease summary you can keep and refer to without reading the whole agreement.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 2716,
+  "sha256": "633e662fa0c50a610beb9d7dedc2eddeb4f50ac5bc86e90b9b2d98855b5dedd5",
+  "previewSize": 22244,
+  "importedAt": "2026-10-04T13:18:30Z"
+}

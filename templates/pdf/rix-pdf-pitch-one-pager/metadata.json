@@ -1,0 +1,37 @@
+{
+  "id": "rix-pdf-pitch-one-pager",
+  "name": "Investor One-Pager",
+  "format": "pdf",
+  "category": "Business",
+  "subcategory": "Fundraising",
+  "tags": [
+    "investor",
+    "onepager",
+    "pitch",
+    "pdf"
+  ],
+  "description": "Single-page investor summary: problem, product, traction, market, team, ask.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 2618,
+  "sha256": "3d8b81f0cf9ace82912e1d806f098d4b872863e2a805ab85c7d4863169cb1714",
+  "previewSize": 20870,
+  "importedAt": "2026-10-04T13:18:30Z"
+}

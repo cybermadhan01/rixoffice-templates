@@ -1,0 +1,37 @@
+{
+  "id": "rix-pdf-transcript",
+  "name": "Meeting Transcript",
+  "format": "pdf",
+  "category": "Business",
+  "subcategory": "Meetings",
+  "tags": [
+    "transcript",
+    "meeting",
+    "notes",
+    "pdf"
+  ],
+  "description": "Clean transcript layout with speakers, timestamps and an action summary.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 2666,
+  "sha256": "03e571b48f524b43aff74943b8c239a9df6459e0ac55d57d3c8211b777e97215",
+  "previewSize": 20110,
+  "importedAt": "2026-10-04T13:18:30Z"
+}

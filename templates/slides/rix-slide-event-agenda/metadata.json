@@ -1,0 +1,37 @@
+{
+  "id": "rix-slide-event-agenda",
+  "name": "Event Agenda",
+  "format": "pptx",
+  "category": "Marketing",
+  "subcategory": "Events",
+  "tags": [
+    "event",
+    "agenda",
+    "conference",
+    "schedule"
+  ],
+  "description": "Conference or meetup agenda deck with timings, tracks and logistics.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 35225,
+  "sha256": "9c16a1c3799ebab3641cf2d9ea29478c1f69d9febc30d7a4c0bb8c2f7988cc92",
+  "previewSize": 16156,
+  "importedAt": "2026-10-04T13:18:29Z"
+}

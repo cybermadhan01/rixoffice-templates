@@ -1,0 +1,37 @@
+{
+  "id": "rix-doc-security-incident",
+  "name": "Security Incident Report",
+  "format": "docx",
+  "category": "Business",
+  "subcategory": "Security",
+  "tags": [
+    "security",
+    "incident",
+    "breach",
+    "report"
+  ],
+  "description": "Incident write-up: timeline, impact, root cause, containment, follow-ups.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37916,
+  "sha256": "4f6d7017f96450e49473ed85e5651e40f0cd879299711c9638fa56fe2d9be182",
+  "previewSize": 28210,
+  "importedAt": "2026-10-04T13:18:26Z"
+}

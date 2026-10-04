@@ -1,0 +1,37 @@
+{
+  "id": "rix-pdf-portfolio-page",
+  "name": "Portfolio Page",
+  "format": "pdf",
+  "category": "Personal",
+  "subcategory": "Portfolio",
+  "tags": [
+    "portfolio",
+    "cv",
+    "pdf",
+    "personal"
+  ],
+  "description": "Single-page portfolio layout: intro, selected work, and contact.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 2502,
+  "sha256": "d29d0e761fb0767f01e80fa526f90f0a44857c9e12ae9e0ec71aa558edf22886",
+  "previewSize": 21694,
+  "importedAt": "2026-10-04T13:18:30Z"
+}

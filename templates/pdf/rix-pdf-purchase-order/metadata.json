@@ -1,0 +1,37 @@
+{
+  "id": "rix-pdf-purchase-order",
+  "name": "Purchase Order",
+  "format": "pdf",
+  "category": "Business",
+  "subcategory": "Procurement",
+  "tags": [
+    "purchase",
+    "order",
+    "procurement",
+    "pdf"
+  ],
+  "description": "Purchase order form for sending to a vendor, with approvals and totals.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pdf",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 2953,
+  "sha256": "eb680a6cd15e286d39c119c3d5398a66b45f3ed8e4786e1f5c31ff01b69af04d",
+  "previewSize": 21450,
+  "importedAt": "2026-10-04T13:18:30Z"
+}

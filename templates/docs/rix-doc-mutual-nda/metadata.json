@@ -1,0 +1,37 @@
+{
+  "id": "rix-doc-mutual-nda",
+  "name": "Mutual Non-Disclosure Agreement",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Contracts",
+  "tags": [
+    "legal",
+    "nda",
+    "confidentiality",
+    "contract"
+  ],
+  "description": "Two-way confidentiality agreement for early-stage discussions, with a carve-out list.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37536,
+  "sha256": "6c4e7d3c3dcc6c5f7814f16cbceef3fca2f31da2dfb1df4b40974b4d0fbb7d7a",
+  "previewSize": 39522,
+  "importedAt": "2026-10-04T13:18:25Z"
+}

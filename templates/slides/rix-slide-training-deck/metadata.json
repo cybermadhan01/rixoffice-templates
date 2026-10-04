@@ -1,0 +1,37 @@
+{
+  "id": "rix-slide-training-deck",
+  "name": "Training Deck",
+  "format": "pptx",
+  "category": "Education",
+  "subcategory": "Corporate",
+  "tags": [
+    "training",
+    "onboarding",
+    "learning",
+    "corporate"
+  ],
+  "description": "Internal training deck: agenda, concept, demo, practice, reference card.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 36514,
+  "sha256": "c9812c4727c3daf97b0d15c32095a6eb4f172ad7fac4b05b572728f7098fc9ab",
+  "previewSize": 15302,
+  "importedAt": "2026-10-04T13:18:29Z"
+}

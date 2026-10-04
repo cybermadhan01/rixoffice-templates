@@ -1,0 +1,37 @@
+{
+  "id": "rix-md-blog-post",
+  "name": "Blog Post",
+  "format": "md",
+  "category": "Marketing",
+  "subcategory": "Content",
+  "tags": [
+    "blog",
+    "writing",
+    "content",
+    "markdown"
+  ],
+  "description": "A technical or product blog post skeleton with a hook, structure and front matter.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 975,
+  "sha256": "1ba3381f5c39bf31579016f2af6e2fb6221aeeeb7ee270aba4e725ae49151cc6",
+  "previewSize": 28522,
+  "importedAt": "2026-10-04T13:18:31Z"
+}

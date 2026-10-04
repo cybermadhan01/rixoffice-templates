@@ -1,0 +1,37 @@
+{
+  "id": "rix-sheet-inventory",
+  "name": "Inventory Tracker",
+  "format": "xlsx",
+  "category": "Project Management",
+  "subcategory": "Operations",
+  "tags": [
+    "inventory",
+    "stock",
+    "operations",
+    "assets"
+  ],
+  "description": "Stock and asset register with reorder points and valuation.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.xlsx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 6751,
+  "sha256": "327b2932ca11df2070f492c7fe728dd6a8222fdf463b179089b9ce4e91214d5b",
+  "previewSize": 17462,
+  "importedAt": "2026-10-04T13:18:27Z"
+}

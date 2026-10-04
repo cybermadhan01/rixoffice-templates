@@ -1,0 +1,37 @@
+{
+  "id": "rix-slide-education-lecture",
+  "name": "Lecture Presentation",
+  "format": "pptx",
+  "category": "Education",
+  "subcategory": "Teaching",
+  "tags": [
+    "lecture",
+    "education",
+    "teaching",
+    "slides"
+  ],
+  "description": "Teaching deck skeleton: objectives, concept, worked example, check for understanding.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.pptx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 36557,
+  "sha256": "0450119079d37e7b53f60d5529f886bab4d9e8640089fbcaa5898a83a613241f",
+  "previewSize": 15920,
+  "importedAt": "2026-10-04T13:18:28Z"
+}

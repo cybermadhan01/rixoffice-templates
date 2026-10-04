@@ -1,0 +1,37 @@
+{
+  "id": "rix-md-project-charter",
+  "name": "Project Charter",
+  "format": "md",
+  "category": "Project Management",
+  "subcategory": "Initiation",
+  "tags": [
+    "charter",
+    "project",
+    "scope",
+    "markdown"
+  ],
+  "description": "Charter that defines the problem, scope, success criteria and governance in one page.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.md",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 1251,
+  "sha256": "520f9d3b2a5e4c13794c027d3159041a6e92f2656526b4c23706c946c2691bcc",
+  "previewSize": 26488,
+  "importedAt": "2026-10-04T13:18:31Z"
+}

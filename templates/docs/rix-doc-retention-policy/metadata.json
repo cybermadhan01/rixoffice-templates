@@ -1,0 +1,37 @@
+{
+  "id": "rix-doc-retention-policy",
+  "name": "Data Retention Policy",
+  "format": "docx",
+  "category": "Legal",
+  "subcategory": "Compliance",
+  "tags": [
+    "compliance",
+    "policy",
+    "retention",
+    "gdpr"
+  ],
+  "description": "Retention schedule by record type, with legal basis and disposal method.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37939,
+  "sha256": "ae79fc1dcd93c2d52de7834ea3b886b77001791e92e5b310a3b24b78fb7b34e5",
+  "previewSize": 34278,
+  "importedAt": "2026-10-04T13:18:26Z"
+}

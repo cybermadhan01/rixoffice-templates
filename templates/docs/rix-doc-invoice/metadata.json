@@ -1,0 +1,37 @@
+{
+  "id": "rix-doc-invoice",
+  "name": "Client Invoice",
+  "format": "docx",
+  "category": "Finance",
+  "subcategory": "Billing",
+  "tags": [
+    "invoice",
+    "finance",
+    "billing",
+    "payment"
+  ],
+  "description": "A clean invoice document with line items, tax summary and payment instructions.",
+  "source": {
+    "repository": "cybermadhan01/rixoffice-templates",
+    "repository_url": "https://github.com/cybermadhan01/rixoffice-templates",
+    "original_path": "tools/template-importer/defs.py",
+    "author": "Rixoffice",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "redistribution": true
+  },
+  "rixoffice": {
+    "imported": true,
+    "modified": false
+  },
+  "files": {
+    "template": "template.docx",
+    "preview": "preview.webp",
+    "license": "LICENSE.txt"
+  },
+  "size": 37418,
+  "sha256": "cc51f5fe231967ad278f01d2a963d8e297bb36ade3143870992f22ca6ae3c581",
+  "previewSize": 14746,
+  "importedAt": "2026-10-04T13:18:25Z"
+}
