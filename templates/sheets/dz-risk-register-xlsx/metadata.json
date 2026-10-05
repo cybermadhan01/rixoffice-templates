@@ -1,18 +1,18 @@
 {
-  "id": "dz-risk-register",
+  "id": "dz-risk-register-xlsx",
   "name": "Risk Register",
-  "format": "docx",
+  "format": "xlsx",
   "category": "Business",
-  "subcategory": "Documents",
+  "subcategory": "Spreadsheets",
   "tags": [
-    "document",
+    "spreadsheet",
     "template"
   ],
-  "description": "Document template from the documize collection.",
+  "description": "1 sheets: Sheet1",
   "source": {
     "repository": "documize/document-templates",
     "repository_url": "https://github.com/documize/document-templates",
-    "original_path": "project-management/risk-register.docx",
+    "original_path": "project-management/risk-register.xlsx",
     "author": "documize",
     "license": "MIT",
     "license_url": "https://github.com/documize/document-templates/blob/main/LICENSE",
@@ -24,11 +24,11 @@
     "modified": false
   },
   "files": {
-    "template": "template.docx",
+    "template": "template.xlsx",
     "preview": "preview.webp",
     "license": "LICENSE.txt"
   },
-  "size": 19908,
-  "sha256": "3baeb78ee0949114983c59c5e7f7fd0b4df345f2c6b8f318ab7daa91704a0376",
-  "importedAt": "2026-10-05T01:54:17Z"
+  "size": 12561,
+  "sha256": "ee6c93fc1b1b41ecdbfe88d1aed0f2aa65e6753fb3f4dbe09a1bb7c4aa8647da",
+  "importedAt": "2026-10-05T02:11:08Z"
 }

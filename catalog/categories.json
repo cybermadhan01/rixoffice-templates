@@ -1,23 +1,23 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-05T01:55:19Z",
-  "total": 703,
+  "updatedAt": "2026-10-05T02:10:10Z",
+  "total": 704,
   "formats": {
     "docx": 29,
     "md": 23,
     "pdf": 174,
     "pptx": 237,
-    "xlsx": 240
+    "xlsx": 241
   },
   "categories": {
     "Business": {
-      "count": 232,
+      "count": 233,
       "formats": {
         "docx": 8,
         "md": 4,
         "pdf": 8,
         "pptx": 132,
-        "xlsx": 80
+        "xlsx": 81
       }
     },
     "Legal": {

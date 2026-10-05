@@ -1,7 +1,7 @@
 # Import report
 
-- Built: 2026-10-05T01:55:19Z
-- Duration: 66s
+- Built: 2026-10-05T02:10:10Z
+- Duration: 100s
 - Builder: `tools/template-importer/import_sources.py`
 
 ## Summary
@@ -29,7 +29,7 @@ Rejected: 0
 
 ## Published
 
-- Templates: **703**
-- Formats: docx 29, md 23, pdf 174, pptx 237, xlsx 240
+- Templates: **704**
+- Formats: docx 29, md 23, pdf 174, pptx 237, xlsx 241
 - Payload: 33.6 MB
 - Thumbnails: 18.4 MB (avg 27 KB each)

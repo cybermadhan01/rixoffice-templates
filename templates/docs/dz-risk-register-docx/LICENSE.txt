@@ -1,7 +1,7 @@
 Rixoffice template: Risk Register
 ==================================================
 
-Template id : dz-risk-register
+Template id : dz-risk-register-docx
 Format      : DOCX
 Source      : documize/document-templates
 Upstream    : https://github.com/documize/document-templates
