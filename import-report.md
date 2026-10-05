@@ -1,7 +1,7 @@
 # Import report
 
-- Built: 2026-10-04T15:48:43Z
-- Duration: 53s
+- Built: 2026-10-05T01:55:19Z
+- Duration: 66s
 - Builder: `tools/template-importer/import_sources.py`
 
 ## Summary
